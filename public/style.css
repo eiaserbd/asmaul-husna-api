@@ -638,6 +638,17 @@ body {
     white-space: pre-line;
 }
 
+.modal-details-body {
+    color: #554a33;
+    font-size: 0.92rem;
+    line-height: 1.9;
+}
+
+.modal-details-body strong {
+    color: #7a4d00;
+    font-weight: 800;
+}
+
 .footer {
     padding: 22px 28px;
     text-align: center;

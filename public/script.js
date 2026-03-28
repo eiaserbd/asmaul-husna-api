@@ -137,7 +137,7 @@ function showNameDetail(name) {
                 <div class="modal-meaning">${name.meaning || ''}</div>
                 <div class="modal-details">
                     <h4>Details</h4>
-                    <p>${escapeHtml(name.details || name.meaning || '')}</p>
+                    <div class="modal-details-body">${formatDetailsText(name.details || name.meaning || '')}</div>
                 </div>
                 ${name.audio_url ? `<button class="audio-btn modal-audio" data-audio="${name.audio_url}">Listen to recitation</button>` : ''}
             </div>
@@ -192,6 +192,14 @@ function escapeHtml(value) {
         .replaceAll('>', '&gt;')
         .replaceAll('"', '&quot;')
         .replaceAll("'", '&#39;');
+}
+
+function formatDetailsText(value) {
+    const escaped = escapeHtml(value);
+
+    return escaped
+        .replace(/\*\*(.+?):\*\*/g, '<strong>$1:</strong>')
+        .replace(/\n/g, '<br>');
 }
 
 fetchNames();
