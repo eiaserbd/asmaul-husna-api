@@ -175,3 +175,21 @@ Powered by Asmaul Husna API | 99 Names of Allah | Developed by Eiaser Hosen
 Contact:
 
 [![GitHub](https://img.shields.io/badge/GitHub-eiaserbd-181717?style=for-the-badge&logo=github)](https://github.com/eiaserbd/)
+
+## Details Field
+
+Each API response now includes a `details` field for modal-style expanded reading.
+
+```json
+{
+  "number": 3,
+  "name": {
+    "arabic": "الْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "translated": "The Eternal Lord"
+  },
+  "meaning": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection.",
+  "details": "So exalted be Allah, the True King; no god is there but He...",
+  "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg"
+}
+```

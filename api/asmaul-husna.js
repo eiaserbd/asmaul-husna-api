@@ -71,7 +71,7 @@ function formatResponse(name, lang) {
       translated: translation.name
     },
     meaning: translation.meaning,
-    audio_url: name.audio_url,
-    reference_url: name.reference_url
+    details: translation.details || translation.meaning,
+    audio_url: name.audio_url
   };
 }

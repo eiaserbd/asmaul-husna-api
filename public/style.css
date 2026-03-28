@@ -571,17 +571,28 @@ body {
     font-size: 0.96rem;
 }
 
-.reference-link {
-    display: inline-flex;
-    margin-top: 16px;
-    margin-left: 12px;
-    color: #0f6db8;
-    text-decoration: none;
-    font-weight: 600;
+.modal-details {
+    margin-top: 18px;
+    padding: 18px;
+    border-radius: 22px;
+    background: linear-gradient(180deg, #fcf7ec, #f6efe0);
+    border: 1px solid rgba(214, 150, 35, 0.18);
+    text-align: left;
 }
 
-.reference-link:hover {
-    text-decoration: underline;
+.modal-details h4 {
+    color: #9a6300;
+    font-size: 0.95rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+    letter-spacing: 0.02em;
+}
+
+.modal-details p {
+    color: #554a33;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    white-space: pre-line;
 }
 
 .footer {

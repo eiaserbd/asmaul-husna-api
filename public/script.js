@@ -135,8 +135,13 @@ function showNameDetail(name) {
                 <div class="modal-transliteration">${name.name.transliteration}</div>
                 <div class="modal-translated">${name.name.translated}</div>
                 <div class="modal-meaning">${name.meaning || ''}</div>
+                ${name.details ? `
+                    <div class="modal-details">
+                        <h4>Details</h4>
+                        <p>${name.details}</p>
+                    </div>
+                ` : ''}
                 ${name.audio_url ? `<button class="audio-btn modal-audio" data-audio="${name.audio_url}">Listen to recitation</button>` : ''}
-                ${name.reference_url ? `<a href="${name.reference_url}" target="_blank" rel="noreferrer" class="reference-link">Learn more</a>` : ''}
             </div>
         </div>
     `;
