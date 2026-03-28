@@ -1,5 +1,6 @@
 const namesData = require('../data/asmaul-husna.json');
-const { formatLocalResponse, supportedLangs } = require('../utils/fetchDetails');
+
+const supportedLangs = ['english', 'bangla', 'urdu', 'indonesian'];
 
 module.exports = (req, res) => {
   // Enable CORS for Flutter app and web frontend
@@ -55,3 +56,19 @@ module.exports = (req, res) => {
     results: formattedResults
   });
 };
+
+function formatLocalResponse(name, lang) {
+  const translation = name.translations[lang];
+
+  return {
+    number: name.number,
+    name: {
+      arabic: name.name.arabic,
+      transliteration: name.name.transliteration,
+      translated: translation.name
+    },
+    meaning: translation.meaning,
+    details: translation.details || translation.meaning,
+    audio_url: name.audio_url
+  };
+}

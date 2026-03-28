@@ -10,7 +10,7 @@ A lightweight API and modern web interface for exploring the 99 Names of Allah.
 - Search by Arabic name, transliteration, or English meaning
 - Random name lookup
 - Audio recitation with expandable details in each record
-- Live details endpoint with Quran auto-fetch support
+- Local details endpoint powered by the bundled JSON data
 - Responsive frontend included in `public/`
 
 ## API Endpoint
@@ -21,7 +21,7 @@ Base route:
 /api/asmaul-husna
 ```
 
-Live details route:
+Details route:
 
 ```text
 /api/details?id=3&lang=english
@@ -40,7 +40,7 @@ Live details route:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| `id` | number | Required name number for live detail lookup |
+| `id` | number | Required name number for detail lookup |
 | `lang` | string | Translation language for the detail payload |
 
 ## Arabic Support
@@ -162,7 +162,7 @@ Unsupported language:
 }
 ```
 
-## Live Details Response
+## Details Response
 
 ```json
 {
@@ -174,16 +174,9 @@ Unsupported language:
   },
   "meaning": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection.",
   "details": "So exalted be Allah, the True King; no god is there but He...",
+  "quran_reference": "Surah Al-Fatihah 1:4, Surah Al-Hashr 59:23, Surah Al-Mulk 67:1",
   "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg",
-  "quran_reference": {
-    "reference": "23:116",
-    "arabic": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ...",
-    "translation": "[KNOW,] then, [that] God is sublimely exalted..."
-  },
-  "asma_reference": {
-    "source": "api.aladhan.com",
-    "english_meaning": "The King / Eternal Lord"
-  }
+  "spiritual_benefit": "He who repeats this Name will be respected by others."
 }
 ```
 
@@ -191,12 +184,11 @@ Unsupported language:
 
 ```text
 api/asmaul-husna.js   Serverless API handler
-api/details.js        Live details endpoint
+api/details.js        Local details endpoint
 data/asmaul-husna.json Source data for all names
 public/index.html     Frontend landing page
 public/style.css      Frontend styles
 public/script.js      Frontend interactions
-utils/fetchDetails.js External API fetch helpers
 ```
 
 ## Branding
