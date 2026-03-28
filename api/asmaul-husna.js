@@ -13,6 +13,7 @@ module.exports = (req, res) => {
   }
 
   const { id, search, random, lang = 'english' } = req.query;
+
   if (!supportedLangs.includes(lang)) {
     return res.status(400).json({ 
       error: 'Language not supported', 
@@ -20,14 +21,12 @@ module.exports = (req, res) => {
     });
   }
 
-  // Random name
   if (random === 'true') {
     const randomIndex = Math.floor(Math.random() * namesData.asmaul_husna.length);
     const name = namesData.asmaul_husna[randomIndex];
     return res.status(200).json(formatLocalResponse(name, lang));
   }
 
-  // Get by ID
   if (id) {
     const name = namesData.asmaul_husna.find(n => n.number === parseInt(id));
     if (name) {
@@ -36,7 +35,6 @@ module.exports = (req, res) => {
     return res.status(404).json({ error: 'Name not found' });
   }
 
-  // Search
   if (search) {
     const query = search.toLowerCase();
     const filtered = namesData.asmaul_husna.filter(n => 
@@ -51,7 +49,6 @@ module.exports = (req, res) => {
     });
   }
 
-  // Get all names
   const formattedResults = namesData.asmaul_husna.map(n => formatLocalResponse(n, lang));
   return res.status(200).json({
     count: formattedResults.length,
