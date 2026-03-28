@@ -105,6 +105,17 @@ body {
     text-transform: uppercase;
 }
 
+.docs-link {
+    text-decoration: none;
+}
+
+.docs-link:hover,
+.docs-link:focus-visible {
+    background: rgba(244, 185, 66, 0.18);
+    color: #102117;
+    outline: none;
+}
+
 .hero-socials {
     display: flex;
     gap: 10px;
@@ -455,7 +466,7 @@ body {
     color: #17422d;
     font-size: 2.2rem;
     line-height: 1.35;
-    text-align: right;
+    text-align: center;
 }
 
 .name-transliteration {
@@ -592,6 +603,7 @@ body {
     margin-top: 18px;
     color: #17422d;
     font-size: clamp(2.6rem, 6vw, 3.4rem);
+    text-align: center;
 }
 
 .modal-transliteration {
@@ -642,11 +654,28 @@ body {
     color: #554a33;
     font-size: 0.92rem;
     line-height: 1.9;
+    max-height: min(34vh, 280px);
+    overflow-y: auto;
+    padding-right: 8px;
 }
 
 .modal-details-body strong {
     color: #7a4d00;
     font-weight: 800;
+}
+
+.modal-details-body::-webkit-scrollbar {
+    width: 8px;
+}
+
+.modal-details-body::-webkit-scrollbar-track {
+    background: rgba(122, 77, 0, 0.08);
+    border-radius: 999px;
+}
+
+.modal-details-body::-webkit-scrollbar-thumb {
+    background: rgba(214, 150, 35, 0.55);
+    border-radius: 999px;
 }
 
 .footer {
@@ -659,6 +688,58 @@ body {
 
 .footer p {
     margin: 0;
+}
+
+.footer-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    line-height: 1.8;
+}
+
+.footer-heart {
+    display: inline-block;
+    color: #ff7865;
+    text-shadow: 0 0 18px rgba(255, 120, 101, 0.45);
+    animation: pulseHeart 1.4s ease-in-out infinite;
+}
+
+.footer-socials {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+}
+
+.footer-social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 16px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: var(--heading);
+    text-decoration: none;
+    font-weight: 700;
+    transition: transform 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.footer-social-link:hover,
+.footer-social-link:focus-visible {
+    transform: translateY(-2px);
+    background: rgba(244, 185, 66, 0.18);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+    outline: none;
+}
+
+.footer-social-link svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
 }
 
 ::selection {
@@ -713,6 +794,16 @@ body {
     to {
         opacity: 1;
         transform: translateY(0);
+    }
+}
+
+@keyframes pulseHeart {
+    0%,
+    100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.18);
     }
 }
 
