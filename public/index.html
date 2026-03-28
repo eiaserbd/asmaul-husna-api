@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore the 99 Names of Allah with a clean multilingual interface and a simple public API.">
+    <title>Asmaul Husna API | 99 Names of Allah</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-shell">
+        <header class="hero">
+            <div class="hero-copy">
+                <span class="eyebrow">Public Islamic API</span>
+                <h1>Asmaul Husna API</h1>
+                <p class="hero-lead">A modern reference for the 99 Beautiful Names of Allah with multilingual meanings, audio recitation, and simple JSON endpoints.</p>
+                <div class="hero-meta">
+                    <div class="meta-card">
+                        <span class="meta-label">Records</span>
+                        <strong id="heroCount">99 Names</strong>
+                    </div>
+                    <div class="meta-card">
+                        <span class="meta-label">Languages</span>
+                        <strong>English, Bangla, Urdu, Indonesian</strong>
+                    </div>
+                    <div class="meta-card">
+                        <span class="meta-label">Endpoint</span>
+                        <strong id="heroEndpoint">/api/asmaul-husna</strong>
+                    </div>
+                </div>
+            </div>
+            <aside class="hero-panel">
+                <div class="panel-glow"></div>
+                <p class="panel-label">Quick Start</p>
+                <pre class="code-block"><code id="quickStartCode">GET /api/asmaul-husna?lang=english</code></pre>
+                <div class="panel-pills">
+                    <span>GET all names</span>
+                    <span>Search meanings</span>
+                    <span>Pick random</span>
+                </div>
+            </aside>
+        </header>
+
+        <section class="controls-panel">
+            <div class="lang-bar" aria-label="Language selector">
+                <button class="lang-btn active" data-lang="english">English</button>
+                <button class="lang-btn" data-lang="bangla">Bangla</button>
+                <button class="lang-btn" data-lang="urdu">Urdu</button>
+                <button class="lang-btn" data-lang="indonesian">Indonesia</button>
+            </div>
+
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search by Arabic name, transliteration, or meaning">
+                <button id="randomBtn" class="random-btn">Random Name</button>
+            </div>
+        </section>
+
+        <section class="status-row">
+            <div class="status-chip">
+                <span class="chip-label">Current language</span>
+                <strong id="activeLanguageLabel">English</strong>
+            </div>
+            <div class="status-chip">
+                <span class="chip-label">Visible results</span>
+                <strong id="resultCountLabel">99</strong>
+            </div>
+        </section>
+
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading 99 Names...</p>
+        </div>
+
+        <main>
+            <section id="namesGrid" class="names-grid" aria-live="polite"></section>
+
+            <section class="docs-section">
+                <div class="section-heading">
+                    <span class="eyebrow">API Documentation</span>
+                    <h2>Built for quick integration</h2>
+                    <p>Use one endpoint to fetch every name, a single record, a random result, or filtered matches by keyword.</p>
+                </div>
+
+                <div class="docs-grid">
+                    <article class="doc-card">
+                        <h3>Base Endpoint</h3>
+                        <pre class="code-block"><code id="baseEndpointCode">/api/asmaul-husna</code></pre>
+                        <p>Returns all 99 names by default in a consistent JSON shape.</p>
+                    </article>
+
+                    <article class="doc-card">
+                        <h3>Query Parameters</h3>
+                        <ul class="doc-list">
+                            <li><code>lang</code> - `english`, `bangla`, `urdu`, `indonesian`</li>
+                            <li><code>id</code> - fetch a specific name by number, for example `1`</li>
+                            <li><code>search</code> - search Arabic text, transliteration, or English meaning</li>
+                            <li><code>random</code> - set to `true` to get one random name</li>
+                        </ul>
+                    </article>
+
+                    <article class="doc-card">
+                        <h3>Example Requests</h3>
+                        <pre class="code-block"><code id="requestExamples">GET /api/asmaul-husna?id=1
+GET /api/asmaul-husna?search=mercy
+GET /api/asmaul-husna?random=true&lang=urdu</code></pre>
+                    </article>
+
+                    <article class="doc-card">
+                        <h3>Response Shape</h3>
+                        <pre class="code-block"><code>{
+  "number": 1,
+  "name": {
+    "arabic": "...",
+    "transliteration": "...",
+    "translated": "..."
+  },
+  "meaning": "...",
+  "audio_url": "...",
+  "reference_url": "..."
+}</code></pre>
+                    </article>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>Powered by Asmaul Husna API | 99 Names of Allah | Developed by Eiaser Hosen</p>
+        </footer>
+    </div>
+
+    <audio id="audioPlayer" style="display: none;"></audio>
+    <script src="script.js"></script>
+</body>
+</html>

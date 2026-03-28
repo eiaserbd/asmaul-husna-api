@@ -1,0 +1,2419 @@
+{
+   "asmaul_husna": [
+     {
+       "number": 1,
+       "name": {
+         "arabic": "الرَّحْمَـٰنُ",
+         "transliteration": "Ar-Rahmaan"
+       },
+       "translations": {
+         "english": {
+           "name": "The Most Gracious",
+           "meaning": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter."
+         },
+         "bangla": {
+           "name": "পরম দয়ালু",
+           "meaning": "যিনি এই দুনিয়ায় মুমিন ও কাফির সকলের প্রতি অপরিমিত দয়া করেন এবং আখিরাতে শুধু মুমিনদের প্রতি বিশেষ দয়া করেন।"
+         },
+         "urdu": {
+           "name": "بے انتہا رحم والا",
+           "meaning": "جو اس دنیا میں مومنین اور کافروں پر بے انتہا رحم فرماتا ہے اور آخرت میں خصوصاً مومنین پر رحم فرمائے گا۔"
+         },
+         "indonesian": {
+           "name": "Maha Pengasih",
+           "meaning": "Yang memiliki rahmat yang luas bagi semua makhluk di dunia ini dan khusus bagi orang-orang beriman di akhirat."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/01-ar-rahman.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/152-al-rahman"
+     },
+     {
+       "number": 2,
+       "name": {
+         "arabic": "الرَّحِيمُ",
+         "transliteration": "Ar-Raheem"
+       },
+       "translations": {
+         "english": {
+           "name": "The Most Merciful",
+           "meaning": "He who acts with extreme kindness and mercy towards the believers."
+         },
+         "bangla": {
+           "name": "অতি দয়ালু",
+           "meaning": "যিনি মুমিনদের প্রতি অত্যন্ত দয়া ও করুণা করেন।"
+         },
+         "urdu": {
+           "name": "بہت مہربان",
+           "meaning": "جو مومنوں پر بے پناہ مہربانی فرماتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Penyayang",
+           "meaning": "Yang memberikan rahmat yang khusus bagi orang-orang beriman."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/02-ar-rahim.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/151-al-rahim"
+     },
+     {
+       "number": 3,
+       "name": {
+         "arabic": "الْمَلِكُ",
+         "transliteration": "Al-Malik"
+       },
+       "translations": {
+         "english": {
+           "name": "The Eternal Lord",
+           "meaning": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection."
+         },
+         "bangla": {
+           "name": "চিরস্থায়ী প্রভু",
+           "meaning": "পরম কর্তৃত্বের অধিকারী, যাঁর রাজত্ব সম্পূর্ণ এবং ত্রুটিমুক্ত।"
+         },
+         "urdu": {
+           "name": "بادشاہ",
+           "meaning": "وہ جو کامل اختیار والا ہے، جس کی بادشاہت میں کوئی کمی نہیں۔"
+         },
+         "indonesian": {
+           "name": "Maha Merajai",
+           "meaning": "Yang memiliki kekuasaan mutlak dan sempurna."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/150-al-malik"
+     },
+     {
+       "number": 4,
+       "name": {
+         "arabic": "الْقُدُّوسُ",
+         "transliteration": "Al-Quddus"
+       },
+       "translations": {
+         "english": {
+           "name": "The Most Sacred",
+           "meaning": "The One who is pure from any imperfection and clear from children and adversaries."
+         },
+         "bangla": {
+           "name": "পবিত্রতম",
+           "meaning": "যিনি সকল প্রকার ত্রুটি-বিচ্যুতি থেকে পবিত্র এবং সন্তান ও প্রতিদ্বন্দ্বী থেকে মুক্ত।"
+         },
+         "urdu": {
+           "name": "نہایت پاک",
+           "meaning": "جو ہر عیب سے پاک ہے اور اولاد اور حریف سے منزہ ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Suci",
+           "meaning": "Yang Maha Suci dari segala kekurangan dan tidak beranak serta tidak memiliki sekutu."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/04-al-quddus.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/149-al-qudduz"
+     },
+     {
+       "number": 5,
+       "name": {
+         "arabic": "السَّلاَمُ",
+         "transliteration": "As-Salam"
+       },
+       "translations": {
+         "english": {
+           "name": "The Embodiment of Peace",
+           "meaning": "The One who is free from every imperfection."
+         },
+         "bangla": {
+           "name": "শান্তির উৎস",
+           "meaning": "যিনি সকল প্রকার ত্রুটি-বিচ্যুতি থেকে মুক্ত।"
+         },
+         "urdu": {
+           "name": "سلامتی والا",
+           "meaning": "جو ہر عیب سے پاک ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Sejahtera",
+           "meaning": "Yang Maha Memberi keselamatan dan kesejahteraan."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/05-as-salam.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/148-al-salam"
+     },
+     {
+       "number": 6,
+       "name": {
+         "arabic": "الْمُؤْمِنُ",
+         "transliteration": "Al-Mu’min"
+       },
+       "translations": {
+         "english": {
+           "name": "The Infuser of Faith",
+           "meaning": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him."
+         },
+         "bangla": {
+           "name": "ঈমানদাতা",
+           "meaning": "যিনি নিজের সাক্ষ্য দিয়েছেন যে তিনি ছাড়া কোনো উপাস্য নেই এবং মুমিনদের সাক্ষ্য দিয়েছেন যে তারা সত্যবাদী।"
+         },
+         "urdu": {
+           "name": "ایمان دینے والا",
+           "meaning": "جس نے اپنی گواہی دی کہ اس کے سوا کوئی معبود نہیں اور مومنوں کی گواہی دی کہ وہ اپنے عقیدے میں سچے ہیں۔"
+         },
+         "indonesian": {
+           "name": "Maha Memberi Keamanan",
+           "meaning": "Yang memberikan keamanan dan ketenangan kepada hamba-Nya yang beriman."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/06-al-mumin.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/147-al-mumin"
+     },
+     {
+       "number": 7,
+       "name": {
+         "arabic": "الْمُهَيْمِنُ",
+         "transliteration": "Al-Muhaymin"
+       },
+       "translations": {
+         "english": {
+           "name": "The Preserver of Safety",
+           "meaning": "The One who witnesses the saying and deeds of His creatures."
+         },
+         "bangla": {
+           "name": "রক্ষণাবেক্ষণকারী",
+           "meaning": "যিনি তাঁর সৃষ্টির কথা ও কাজের সাক্ষী থাকেন।"
+         },
+         "urdu": {
+           "name": "نگران",
+           "meaning": "جو اپنی مخلوق کے اقوال و افعال کا مشاہدہ فرماتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Memelihara",
+           "meaning": "Yang mengawasi dan memelihara segala sesuatu."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/07-al-muhaymin.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/146-al-muhaimin"
+     },
+     {
+       "number": 8,
+       "name": {
+         "arabic": "الْعَزِيزُ",
+         "transliteration": "Al-Aziz"
+       },
+       "translations": {
+         "english": {
+           "name": "The Mighty One",
+           "meaning": "The Strong, The Defeater who is not defeated."
+         },
+         "bangla": {
+           "name": "পরাক্রমশালী",
+           "meaning": "শক্তিশালী, পরাজয়কারী যিনি কখনো পরাজিত হন না।"
+         },
+         "urdu": {
+           "name": "غالب",
+           "meaning": "زبردست، جو ہمیشہ غالب رہتا ہے اور کبھی مغلوب نہیں ہوتا۔"
+         },
+         "indonesian": {
+           "name": "Maha Perkasa",
+           "meaning": "Yang Maha Kuat dan tidak terkalahkan."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/08-al-aziz.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/145-al-aziz"
+     },
+     {
+       "number": 9,
+       "name": {
+         "arabic": "الْجَبَّارُ",
+         "transliteration": "Al-Jabbar"
+       },
+       "translations": {
+         "english": {
+           "name": "The Omnipotent One",
+           "meaning": "The One that nothing happens in His Dominion except that which He willed."
+         },
+         "bangla": {
+           "name": "সর্বশক্তিমান",
+           "meaning": "যাঁর রাজত্বে তাঁর ইচ্ছা ছাড়া কিছুই ঘটে না।"
+         },
+         "urdu": {
+           "name": "زبردست",
+           "meaning": "جس کی بادشاہت میں اس کی مرضی کے بغیر کچھ نہیں ہوتا۔"
+         },
+         "indonesian": {
+           "name": "Maha Memaksa",
+           "meaning": "Yang segala sesuatu terjadi sesuai dengan kehendak-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/09-al-jabbar.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/144-al-jabbar"
+     },
+     {
+       "number": 10,
+       "name": {
+         "arabic": "الْمُتَكَبِّرُ",
+         "transliteration": "Al-Mutakabbir"
+       },
+       "translations": {
+         "english": {
+           "name": "The Dominant One",
+           "meaning": "The One who is clear from the attributes of the creatures and from resembling them."
+         },
+         "bangla": {
+           "name": "মহিমান্বিত",
+           "meaning": "যিনি সৃষ্টির সকল গুণাবলী ও সাদৃশ্য থেকে পবিত্র।"
+         },
+         "urdu": {
+           "name": "بڑائی والا",
+           "meaning": "جو مخلوق کی صفات اور ان سے مشابہت سے پاک ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Megah",
+           "meaning": "Yang Maha Agung dan tidak ada yang menyerupai-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/10-al-mutakabbir.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/143-al-mutakabbir"
+     },
+     {
+       "number": 11,
+       "name": {
+         "arabic": "الْخَالِقُ",
+         "transliteration": "Al-Khaaliq"
+       },
+       "translations": {
+         "english": {
+           "name": "The Creator",
+           "meaning": "The One who brings everything from non-existence to existence."
+         },
+         "bangla": {
+           "name": "সৃষ্টিকর্তা",
+           "meaning": "যিনি অস্তিত্বহীন থেকে সবকিছুকে অস্তিত্ব দান করেন।"
+         },
+         "urdu": {
+           "name": "پیدا کرنے والا",
+           "meaning": "جو ہر چیز کو عدم سے وجود میں لانے والا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Pencipta",
+           "meaning": "Yang menciptakan segala sesuatu dari ketiadaan."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/11-al-khaliq.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/142-al-khaliq"
+     },
+     {
+       "number": 12,
+       "name": {
+         "arabic": "الْبَارِئُ",
+         "transliteration": "Al-Baari"
+       },
+       "translations": {
+         "english": {
+           "name": "The Evolver",
+           "meaning": "The Maker, The Creator who has the Power to turn the entities."
+         },
+         "bangla": {
+           "name": "বিধাতা",
+           "meaning": "সৃষ্টিকর্তা যিনি সৃষ্টিকে রূপ দান করার ক্ষমতা রাখেন।"
+         },
+         "urdu": {
+           "name": "بنانے والا",
+           "meaning": "پیدا کرنے والا، جو چیزوں کو وجود دینے کی قدرت رکھتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Pembuat",
+           "meaning": "Yang menciptakan dan membentuk segala sesuatu."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/12-al-bari.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/141-al-bari"
+     },
+     {
+       "number": 13,
+       "name": {
+         "arabic": "الْمُصَوِّرُ",
+         "transliteration": "Al-Musawwir"
+       },
+       "translations": {
+         "english": {
+           "name": "The Flawless Shaper",
+           "meaning": "The One who forms His creatures in different pictures."
+         },
+         "bangla": {
+           "name": "আকৃতি দানকারী",
+           "meaning": "যিনি তাঁর সৃষ্টিকে বিভিন্ন আকৃতিতে গঠন করেন।"
+         },
+         "urdu": {
+           "name": "صورت دینے والا",
+           "meaning": "جو اپنی مخلوق کو مختلف صورتوں میں تشکیل دیتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Membentuk",
+           "meaning": "Yang membentuk makhluk-Nya dalam berbagai rupa."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/13-al-musawwir.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/140-al-musawwir"
+     },
+     {
+       "number": 14,
+       "name": {
+         "arabic": "الْغَفَّارُ",
+         "transliteration": "Al-Ghaffaar"
+       },
+       "translations": {
+         "english": {
+           "name": "The Great Forgiver",
+           "meaning": "The Forgiver, The One who forgives the sins of His slaves time and time again."
+         },
+         "bangla": {
+           "name": "ক্ষমাশীল",
+           "meaning": "ক্ষমাকারী, যিনি বারবার তাঁর বান্দাদের গুনাহ ক্ষমা করেন।"
+         },
+         "urdu": {
+           "name": "بخش دینے والا",
+           "meaning": "بخشش کرنے والا، جو بار بار اپنے بندوں کے گناہ معاف فرماتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Pengampun",
+           "meaning": "Yang senantiasa mengampuni dosa-dosa hamba-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/14-al-ghaffar.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/139-al-ghaffar"
+     },
+     {
+       "number": 15,
+       "name": {
+         "arabic": "الْقَهَّارُ",
+         "transliteration": "Al-Qahhaar"
+       },
+       "translations": {
+         "english": {
+           "name": "The All-Prevailing One",
+           "meaning": "The Dominant, The One who has the perfect Power and is not unable over anything."
+         },
+         "bangla": {
+           "name": "পরাক্রমশালী",
+           "meaning": "পরাক্রমশালী, যার পূর্ণ ক্ষমতা আছে এবং কিছুই তাঁর ক্ষমতার বাইরে নয়।"
+         },
+         "urdu": {
+           "name": "غالب",
+           "meaning": "زبردست، جسے کامل قدرت حاصل ہے اور کچھ اس کے بس سے باہر نہیں۔"
+         },
+         "indonesian": {
+           "name": "Maha Mengalahkan",
+           "meaning": "Yang Maha Kuasa dan tidak ada yang dapat mengalahkan-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/15-al-qahhar.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/138-al-qahhar"
+     },
+     {
+       "number": 16,
+       "name": {
+         "arabic": "الْوَهَّابُ",
+         "transliteration": "Al-Wahhab"
+       },
+       "translations": {
+         "english": {
+           "name": "The Supreme Bestower",
+           "meaning": "The One who is Generous in giving plenty without any return."
+         },
+         "bangla": {
+           "name": "দাতা",
+           "meaning": "যিনি কোনো প্রতিদান ছাড়াই প্রচুর দান করেন।"
+         },
+         "urdu": {
+           "name": "عطا کرنے والا",
+           "meaning": "جو بے حساب عطا کرنے والا ہے، بغیر کسی بدلے کے۔"
+         },
+         "indonesian": {
+           "name": "Maha Pemberi",
+           "meaning": "Yang Maha Pemurah dalam memberi tanpa pamrih."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/16-al-wahhab.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/137-al-wahhab"
+     },
+     {
+       "number": 17,
+       "name": {
+         "arabic": "الرَّزَّاقُ",
+         "transliteration": "Ar-Razzaq"
+       },
+       "translations": {
+         "english": {
+           "name": "The Total Provider",
+           "meaning": "The Sustainer, The Provider."
+         },
+         "bangla": {
+           "name": "রিজিকদাতা",
+           "meaning": "টিকাদানকারী, জীবিকা প্রদানকারী।"
+         },
+         "urdu": {
+           "name": "رزق دینے والا",
+           "meaning": "کفالت کرنے والا، رزق دینے والا۔"
+         },
+         "indonesian": {
+           "name": "Maha Pemberi Rezeki",
+           "meaning": "Yang memberi rezeki kepada seluruh makhluk-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/17-ar-razzaq.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/136-al-razzaq"
+     },
+     {
+       "number": 18,
+       "name": {
+         "arabic": "الْفَتَّاحُ",
+         "transliteration": "Al-Fattah"
+       },
+       "translations": {
+         "english": {
+           "name": "The Supreme Solver",
+           "meaning": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters."
+         },
+         "bangla": {
+           "name": "বিজয়দাতা",
+           "meaning": "উন্মুক্তকারী, উদ্ধারকারী, বিচারক, যিনি তাঁর বান্দাদের জন্য দুনিয়া ও দ্বীনের বন্ধ দরজা খুলে দেন।"
+         },
+         "urdu": {
+           "name": "کھولنے والا",
+           "meaning": "کشادگی کرنے والا، فیصلہ کرنے والا، جو اپنے بندوں کے لیے دنیا و دین کے بند دروازے کھول دیتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Pembuka",
+           "meaning": "Yang membuka pintu-pintu rahmat dan rezeki bagi hamba-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/18-al-fattah.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/135-al-fattah"
+     },
+     {
+       "number": 19,
+       "name": {
+         "arabic": "اَلْعَلِيْمُ",
+         "transliteration": "Al-Alim"
+       },
+       "translations": {
+         "english": {
+           "name": "The All-Knowing One",
+           "meaning": "The Knowledgeable; The One nothing is absent from His knowledge."
+         },
+         "bangla": {
+           "name": "সর্বজ্ঞ",
+           "meaning": "সবকিছু জানেন; যাঁর জ্ঞান থেকে কিছুই গোপন নেই।"
+         },
+         "urdu": {
+           "name": "خوب جاننے والا",
+           "meaning": "علم والا، جس کے علم سے کوئی چیز پوشیدہ نہیں۔"
+         },
+         "indonesian": {
+           "name": "Maha Mengetahui",
+           "meaning": "Yang mengetahui segala sesuatu, tidak ada yang tersembunyi dari-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/19-al-alim.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/134-al-aleem"
+     },
+     {
+       "number": 20,
+       "name": {
+         "arabic": "الْقَابِضُ",
+         "transliteration": "Al-Qaabid"
+       },
+       "translations": {
+         "english": {
+           "name": "The Restricting One",
+           "meaning": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+         },
+         "bangla": {
+           "name": "সংকোচনকারী",
+           "meaning": "সংকোচনকারী, আটকে রাখার অধিকারী, যিনি তাঁর জ্ঞানের মাধ্যমে রিজিক সংকুচিত করেন এবং তাঁর দান ও করুণার মাধ্যমে প্রসারিত করেন।"
+         },
+         "urdu": {
+           "name": "قبض کرنے والا",
+           "meaning": "تنگ کرنے والا، روکنے والا، جو اپنی حکمت سے روزی تنگ کر دیتا ہے اور اپنے فضل و کرم سے کشادہ کر دیتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Menyempitkan",
+           "meaning": "Yang menyempitkan dan meluaskan rezeki sesuai kehendak-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/20-al-qabid.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/133-al-qabid"
+     },
+     {
+       "number": 21,
+       "name": {
+         "arabic": "الْبَاسِطُ",
+         "transliteration": "Al-Baasit"
+       },
+       "translations": {
+         "english": {
+           "name": "The Extender",
+           "meaning": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+         },
+         "bangla": {
+           "name": "প্রসারণকারী",
+           "meaning": "প্রসারিতকারী, যিনি তাঁর জ্ঞানের মাধ্যমে রিজিক সংকুচিত করেন এবং তাঁর দান ও করুণার মাধ্যমে প্রসারিত করেন।"
+         },
+         "urdu": {
+           "name": "کشادہ کرنے والا",
+           "meaning": "فراخ کرنے والا، جو اپنی حکمت سے روزی تنگ کر دیتا ہے اور اپنے فضل و کرم سے کشادہ کر دیتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Melapangkan",
+           "meaning": "Yang melapangkan dan menyempitkan rezeki sesuai kehendak-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/21-al-basit.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/132-al-basit"
+     },
+     {
+       "number": 22,
+       "name": {
+         "arabic": "الْخَافِضُ",
+         "transliteration": "Al-Khaafid"
+       },
+       "translations": {
+         "english": {
+           "name": "The Reducer",
+           "meaning": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+         },
+         "bangla": {
+           "name": "অবনতকারী",
+           "meaning": "অপমানকারী, যিনি যাকে ইচ্ছা ধ্বংসের মাধ্যমে নীচু করেন এবং যাকে ইচ্ছা দানের মাধ্যমে উন্নীত করেন।"
+         },
+         "urdu": {
+           "name": "پست کرنے والا",
+           "meaning": "ذلیل کرنے والا، جو جسے چاہے اپنی ہلاکت سے پست کر دے اور جسے چاہے اپنے عطا سے بلند کر دے۔"
+         },
+         "indonesian": {
+           "name": "Maha Merendahkan",
+           "meaning": "Yang merendahkan siapa yang Dia kehendaki dan meninggikan siapa yang Dia kehendaki."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/22-al-khafid.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/131-al-khafid"
+     },
+     {
+       "number": 23,
+       "name": {
+         "arabic": "الرَّافِعُ",
+         "transliteration": "Ar-Rafi"
+       },
+       "translations": {
+         "english": {
+           "name": "The Elevating One",
+           "meaning": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+         },
+         "bangla": {
+           "name": "উন্নতকারী",
+           "meaning": "সমুন্নতকারী, যিনি যাকে ইচ্ছা ধ্বংসের মাধ্যমে নীচু করেন এবং যাকে ইচ্ছা দানের মাধ্যমে উন্নীত করেন।"
+         },
+         "urdu": {
+           "name": "بلند کرنے والا",
+           "meaning": "رفعت دینے والا، جو جسے چاہے اپنی ہلاکت سے پست کر دے اور جسے چاہے اپنے عطا سے بلند کر دے۔"
+         },
+         "indonesian": {
+           "name": "Maha Meninggikan",
+           "meaning": "Yang meninggikan siapa yang Dia kehendaki dan merendahkan siapa yang Dia kehendaki."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/23-ar-rafi.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/130-al-rafi"
+     },
+     {
+       "number": 24,
+       "name": {
+         "arabic": "الْمُعِزُّ",
+         "transliteration": "Al-Mu’izz"
+       },
+       "translations": {
+         "english": {
+           "name": "The Honourer-Bestower",
+           "meaning": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+         },
+         "bangla": {
+           "name": "সম্মানদাতা",
+           "meaning": "যিনি যাকে ইচ্ছা সম্মান দান করেন, ফলে তাকে অপমান করার কেউ নেই; এবং যাকে ইচ্ছা অপমান করেন, ফলে তাকে সম্মান দেওয়ার কেউ নেই।"
+         },
+         "urdu": {
+           "name": "عزت دینے والا",
+           "meaning": "جو جسے چاہے عزت دیتا ہے، پھر اسے ذلیل کرنے والا کوئی نہیں؛ اور جسے چاہے ذلیل کرتا ہے، پھر اسے عزت دینے والا کوئی نہیں۔"
+         },
+         "indonesian": {
+           "name": "Maha Memberi Kemuliaan",
+           "meaning": "Yang memuliakan siapa yang Dia kehendaki dan menghinakan siapa yang Dia kehendaki."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/24-al-muizz.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/129-al-muizz"
+     },
+     {
+       "number": 25,
+       "name": {
+         "arabic": "المُذِلُّ",
+         "transliteration": "Al-Muzil"
+       },
+       "translations": {
+         "english": {
+           "name": "The Abaser",
+           "meaning": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+         },
+         "bangla": {
+           "name": "অপমানকারী",
+           "meaning": "অপমানকারী, যিনি যাকে ইচ্ছা সম্মান দান করেন এবং যাকে ইচ্ছা অপমান করেন।"
+         },
+         "urdu": {
+           "name": "ذلیل کرنے والا",
+           "meaning": "جو جسے چاہے عزت دیتا ہے اور جسے چاہے ذلیل کرتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Menghinakan",
+           "meaning": "Yang memuliakan dan menghinakan siapa yang Dia kehendaki."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/25-al-mudhill.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/128-al-muthill"
+     },
+     {
+       "number": 26,
+       "name": {
+         "arabic": "السَّمِيعُ",
+         "transliteration": "As-Sami’"
+       },
+       "translations": {
+         "english": {
+           "name": "The All-Hearer",
+           "meaning": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ."
+         },
+         "bangla": {
+           "name": "সর্বশ্রোতা",
+           "meaning": "শ্রবণকারী, যিনি চিরন্তন শ্রবণশক্তি দ্বারা সবকিছু শোনেন, কোনো কর্ণ, যন্ত্র বা অঙ্গ ছাড়া।"
+         },
+         "urdu": {
+           "name": "سننے والا",
+           "meaning": "سننے والا، جو اپنی ازلی سماعت سے تمام چیزوں کو سنتا ہے بغیر کان، آلہ یا عضو کے۔"
+         },
+         "indonesian": {
+           "name": "Maha Mendengar",
+           "meaning": "Yang mendengar segala sesuatu tanpa memerlukan alat pendengar."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/26-as-sami.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/127-al-samee"
+     },
+     {
+       "number": 27,
+       "name": {
+         "arabic": "الْبَصِيرُ",
+         "transliteration": "Al-Baseer"
+       },
+       "translations": {
+         "english": {
+           "name": "The All-Seeing",
+           "meaning": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument."
+         },
+         "bangla": {
+           "name": "সর্বদ্রষ্টা",
+           "meaning": "সবকিছু লক্ষ্যকারী, যিনি চিরন্তন দর্শনশক্তি দ্বারা সবকিছু দেখেন, কোনো চোখের তারা বা যন্ত্র ছাড়া।"
+         },
+         "urdu": {
+           "name": "دیکھنے والا",
+           "meaning": "خوب دیکھنے والا، جو اپنی ازلی بینائی سے تمام چیزوں کو دیکھتا ہے بغیر آنکھ کے پتلی یا کسی آلہ کے۔"
+         },
+         "indonesian": {
+           "name": "Maha Melihat",
+           "meaning": "Yang melihat segala sesuatu tanpa memerlukan alat penglihatan."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/27-al-basir.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/126-al-baseer"
+     },
+     {
+       "number": 28,
+       "name": {
+         "arabic": "الْحَكَمُ",
+         "transliteration": "Al-Hakam"
+       },
+       "translations": {
+         "english": {
+           "name": "The Impartial Judge",
+           "meaning": "The Judge, He is the Ruler and His judgment is His Word."
+         },
+         "bangla": {
+           "name": "বিচারক",
+           "meaning": "বিচারক, তিনি শাসক এবং তাঁর বিচারই তাঁর বাণী।"
+         },
+         "urdu": {
+           "name": "حکم دینے والا",
+           "meaning": "فیصلہ کرنے والا، وہ حاکم ہے اور اس کا فیصلہ اس کا کلمہ ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Menetapkan",
+           "meaning": "Yang Maha Menetapkan hukum dan keputusan."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/28-al-hakam.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/125-al-hakam"
+     },
+     {
+       "number": 29,
+       "name": {
+         "arabic": "الْعَدْلُ",
+         "transliteration": "Al-Adl"
+       },
+       "translations": {
+         "english": {
+           "name": "The Embodiment of Justice",
+           "meaning": "The Just, The One who is entitled to do what He does."
+         },
+         "bangla": {
+           "name": "ন্যায়পরায়ণ",
+           "meaning": "ন্যায়বিচারক, যিনি যা করেন তা করতে তিনি অধিকারী।"
+         },
+         "urdu": {
+           "name": "عدل کرنے والا",
+           "meaning": "انصاف کرنے والا، جو جو کچھ کرتا ہے کرنے کا حقدار ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Adil",
+           "meaning": "Yang Maha Adil dalam segala keputusan-Nya."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/29-al-adl.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/124-al-adl"
+     },
+     {
+       "number": 30,
+       "name": {
+         "arabic": "اللَّطِيفُ",
+         "transliteration": "Al-Lateef"
+       },
+       "translations": {
+         "english": {
+           "name": "The Knower of Subtleties",
+           "meaning": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them."
+         },
+         "bangla": {
+           "name": "সূক্ষ্মদর্শী",
+           "meaning": "সূক্ষ্মদয়ালু, দয়াময়, যিনি তাঁর বান্দাদের প্রতি দয়াশীল এবং তাদের প্রতি অনুগ্রহ করেন।"
+         },
+         "urdu": {
+           "name": "لطیف",
+           "meaning": "نرم کرنے والا، مہربان، جو اپنے بندوں پر مہربانی فرماتا ہے اور ان پر انعام فرماتا ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Halus",
+           "meaning": "Yang Maha Lembut dan mengetahui segala sesuatu yang tersembunyi."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/30-al-latif.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/123-al-lateef"
+     },
+     {
+       "number": 31,
+       "name": { "arabic": "الْخَبِيرُ", "transliteration": "Al-Khabeer" },
+       "translations": {
+         "english": { "name": "The All-Aware One", "meaning": "The One who knows the truth of things." },
+         "bangla": { "name": "সবকিছু জানেন", "meaning": "যিনি সবকিছুর প্রকৃত অবস্থা জানেন।" },
+         "urdu": { "name": "خبر رکھنے والا", "meaning": "جو ہر چیز کی حقیقت سے باخبر ہے۔" },
+         "indonesian": { "name": "Maha Waspada", "meaning": "Yang Maha Mengetahui hakikat segala sesuatu." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/31-al-khabir.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/122-al-khabeer"
+     },
+     {
+       "number": 32,
+       "name": { "arabic": "الْحَلِيمُ", "transliteration": "Al-Haleem" },
+       "translations": {
+         "english": { "name": "The Clement One", "meaning": "The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them." },
+         "bangla": { "name": "সহনশীল", "meaning": "ধৈর্যশীল, যিনি শাস্তি পাওয়ার যোগ্যদের শাস্তি দিতে বিলম্ব করেন এবং তারপর তাদের ক্ষমা করতে পারেন।" },
+         "urdu": { "name": "حلیم", "meaning": "بردبار، جو سزا کے مستحقین کو سزا دینے میں تاخیر فرماتا ہے اور پھر انہیں معاف فرما دیتا ہے۔" },
+         "indonesian": { "name": "Maha Penyantun", "meaning": "Yang menunda azab bagi yang berhak menerimanya dan mungkin mengampuni mereka." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/32-al-halim.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/121--al-haleem"
+     },
+     {
+       "number": 33,
+       "name": { "arabic": "الْعَظِيمُ", "transliteration": "Al-Azeem" },
+       "translations": {
+         "english": { "name": "The Magnificent One", "meaning": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection." },
+         "bangla": { "name": "মহান", "meaning": "মহান, শক্তিশালী, যিনি গৌরব, সম্মান ও সকল ত্রুটি থেকে পবিত্রতার গুণে গুণান্বিত।" },
+         "urdu": { "name": "عظیم", "meaning": "بڑا، زبردست، جو جلال و عظمت اور ہر عیب سے پاکی کی صفات کا مستحق ہے۔" },
+         "indonesian": { "name": "Maha Agung", "meaning": "Yang Maha Agung dan Maha Sempurna." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/33-al-azim.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/120-al-azeem"
+     },
+     {
+       "number": 34,
+       "name": { "arabic": "الْغَفُورُ", "transliteration": "Al-Ghafoor" },
+       "translations": {
+         "english": { "name": "The Great Forgiver", "meaning": "The All-Forgiving, The Forgiving, The One who forgives a lot." },
+         "bangla": { "name": "ক্ষমাশীল", "meaning": "সর্বক্ষমাশীল, ক্ষমাকারী, যিনি প্রচুর ক্ষমা করেন।" },
+         "urdu": { "name": "بخش دینے والا", "meaning": "بہت بخشش کرنے والا، جو بکثرت معافی دیتا ہے۔" },
+         "indonesian": { "name": "Maha Pengampun", "meaning": "Yang Maha Pengampun lagi Maha Penerima taubat." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/34-al-ghafur.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/119-al-ghafur"
+     },
+     {
+       "number": 35,
+       "name": { "arabic": "الشَّكُورُ", "transliteration": "Ash-Shakoor" },
+       "translations": {
+         "english": { "name": "The Acknowledging One", "meaning": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience." },
+         "bangla": { "name": "গুণগ্রাহী", "meaning": "কৃতজ্ঞ, প্রশংসাকারী, যিনি সামান্য আনুগত্যের জন্য প্রচুর পুরস্কার দেন।" },
+         "urdu": { "name": "قدردان", "meaning": "شکر گزار، جو تھوڑی سی اطاعت پر بہت زیادہ اجر دیتا ہے۔" },
+         "indonesian": { "name": "Maha Pembalas Syukur", "meaning": "Yang memberi balasan berlipat ganda bagi rasa syukur hamba-Nya." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/35-ash-shakur.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/118-al-shakur"
+     },
+     {
+       "number": 36,
+       "name": { "arabic": "الْعَلِيُّ", "transliteration": "Al-Aliyy" },
+       "translations": {
+         "english": { "name": "The Sublime One", "meaning": "The Most High, The One who is clear from the attributes of the creatures." },
+         "bangla": { "name": "সর্বোচ্চ", "meaning": "সর্বোচ্চ, যিনি সৃষ্টির গুণাবলী থেকে পবিত্র।" },
+         "urdu": { "name": "بلند", "meaning": "سب سے بلند، جو مخلوق کی صفات سے پاک ہے۔" },
+         "indonesian": { "name": "Maha Tinggi", "meaning": "Yang Maha Tinggi dan tidak terjangkau oleh makhluk." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/36-al-ali.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/117-al-ali"
+     },
+     {
+       "number": 37,
+       "name": { "arabic": "الْكَبِيرُ", "transliteration": "Al-Kabeer" },
+       "translations": {
+         "english": { "name": "The Great One", "meaning": "The Most Great, The Great, The One who is greater than everything in status." },
+         "bangla": { "name": "মহীয়ান", "meaning": "মহান, মহীয়ান, যিনি সবকিছুর চেয়ে মর্যাদায় বড়।" },
+         "urdu": { "name": "بڑا", "meaning": "بہت بڑا، جو ہر چیز سے مرتبے میں بڑا ہے۔" },
+         "indonesian": { "name": "Maha Besar", "meaning": "Yang Maha Besar lagi Maha Agung." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/37_al-kabir.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/116-al-kabeer"
+     },
+     {
+       "number": 38,
+       "name": { "arabic": "الْحَفِيظُ", "transliteration": "Al-Hafiz" },
+       "translations": {
+         "english": { "name": "The Guarding One", "meaning": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect." },
+         "bangla": { "name": "রক্ষক", "meaning": "সংরক্ষক, রক্ষাকারী, যিনি যা ইচ্ছা এবং যাকে ইচ্ছা রক্ষা করেন।" },
+         "urdu": { "name": "حفاظت کرنے والا", "meaning": "نگہبان، جو جسے چاہے اور جس چیز کو چاہے محفوظ رکھتا ہے۔" },
+         "indonesian": { "name": "Maha Memelihara", "meaning": "Yang memelihara segala sesuatu yang dikehendaki-Nya." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/38-al-hafiz.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/115-al-hafeez"
+     },
+     {
+       "number": 39,
+       "name": { "arabic": "المُقيِت", "transliteration": "Al-Muqeet" },
+       "translations": {
+         "english": { "name": "The Sustaining One", "meaning": "The Maintainer, The Guardian, The Feeder, The One who has the Power." },
+         "bangla": { "name": "শক্তিদাতা", "meaning": "রক্ষণাবেক্ষণকারী, অভিভাবক, পোষক, যিনি ক্ষমতার অধিকারী।" },
+         "urdu": { "name": "قوت دینے والا", "meaning": "کفالت کرنے والا، نگہبان، کھلانے والا، جو قدرت والا ہے۔" },
+         "indonesian": { "name": "Maha Menjaga", "meaning": "Yang memelihara dan memberi kekuatan kepada makhluk-Nya." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/39-al-muqit.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/114-al-muqeet"
+     },
+     {
+       "number": 40,
+       "name": { "arabic": "الْحسِيبُ", "transliteration": "Al-Haseeb" },
+       "translations": {
+         "english": { "name": "The Reckoning One", "meaning": "The Reckoner, The One who gives the satisfaction." },
+         "bangla": { "name": "হিসাবগ্রহীতা", "meaning": "হিসাব গ্রহণকারী, যিনি সন্তুষ্টি দান করেন।" },
+         "urdu": { "name": "حساب لینے والا", "meaning": "حساب کرنے والا، جو اطمینان عطا فرماتا ہے۔" },
+         "indonesian": { "name": "Maha Menghisab", "meaning": "Yang Maha Menghitung segala amal perbuatan hamba-Nya." }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/40-al-hasib.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/113-al-haseeb"
+     },
+     {
+       "number": 41,
+       "name": { "arabic": "الْجَلِيلُ", "transliteration": "Al-Jaleel" },
+       "translations": {
+         "english": {
+           "name": "The Majestic One",
+           "meaning": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status."
+         },
+         "bangla": {
+           "name": "মহিমান্বিত",
+           "meaning": "মহিমান্বিত, উপকারী, যিনি ক্ষমতার মহিমা ও মর্যাদার গৌরবের গুণে গুণান্বিত।"
+         },
+         "urdu": {
+           "name": "عظمت والا",
+           "meaning": "عظمت والا، نیک کرنے والا، جو قدرت اور مرتبے کی عظمت کی صفات کا حامل ہے۔"
+         },
+         "indonesian": {
+           "name": "Maha Mulia",
+           "meaning": "Yang Maha Mulia lagi Maha Pemberi karunia."
+         }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/41-al-jalil.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/112-al-jaleel"
+     },
+     {
+       "number": 42,
+       "name": { "arabic": "الْكَرِيمُ", "transliteration": "Al-Kareem" },
+       "translations": {
+         "english": { "name": "The Bountiful One", "meaning": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status." },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/43-ar-raqib.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/111-al-kareem"
+     },
+     {
+       "number": 43,
+       "name": { "arabic": "الرَّقِيبُ", "transliteration": "Ar-Raqeeb" },
+       "translations": {
+         "english": { "name": "The Watchful One", "meaning": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge." },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://www.islamicity.org/mediaassets/MP3/other/covers/99-names-of-Allah/043.mp3?v06092021",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/110-al-raqeeb"
+     },
+     {
+       "number": 44,
+       "name": { "arabic": "الْمُجِيبُ", "transliteration": "Al-Mujeeb" },
+       "translations": {
+         "english": { "name": "The Responding One", "meaning": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him." },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/44-al-mujib.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/109-al-mujib"
+     },
+     {
+       "number": 45,
+       "name": { "arabic": "الْوَاسِعُ", "transliteration": "Al-Waasi’" },
+       "translations": {
+         "english": { "name": "The All-Pervading One", "meaning": "The Vast, The All-Embracing, The Knowledgeable." },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/45-al-wasi.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/108-al-wasi"
+     },
+     {
+       "number": 46,
+       "name": { "arabic": "الْحَكِيمُ", "transliteration": "Al-Hakeem" },
+       "translations": {
+         "english": { "name": "The Wise One", "meaning": "The Wise, The Judge of Judges, The One who is correct in His doings." },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/46-al-hakim.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/107-al-hakeem"
+     },
+     {
+       "number": 47,
+       "name": { "arabic": "الْوَدُودُ", "transliteration": "Al-Wadud" },
+       "translations": {
+         "english": { "name": "The Loving One", "meaning": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them" },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/47-al-wadud.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/105-al-wadood"
+     },
+     {
+       "number": 48,
+       "name": { "arabic": "الْمَجِيدُ", "transliteration": "Al-Majeed" },
+       "translations": {
+         "english": { "name": "The Glorious One", "meaning": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness." },
+         "bangla": { "name": "", "meaning": "" },
+         "urdu": { "name": "", "meaning": "" },
+         "indonesian": { "name": "", "meaning": "" }
+       },
+       "audio_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/48-al-majid.ogg",
+       "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/104-al-majeed"
+     },
+    {
+      "number": 49,
+      "name": {
+        "arabic": "الْبَاعِثُ",
+        "transliteration": "Al-Ba’ith"
+      },
+      "translations": {
+        "english": {
+          "name": "The Infuser of New Life",
+          "meaning": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment."
+        },
+        "bangla": {
+          "name": "পুনরুত্থানকারী",
+          "meaning": "পুনরুজ্জীবিতকারী, যিনি মৃত্যুর পর তাঁর বান্দাদের পুরস্কার ও শাস্তির জন্য পুনরুত্থিত করেন।"
+        },
+        "urdu": {
+          "name": "اٹھانے والا",
+          "meaning": "دوبارہ زندہ کرنے والا، جو موت کے بعد اپنے بندوں کو جزا و سزا کے لیے اٹھائے گا۔"
+        },
+        "indonesian": {
+          "name": "Maha Membangkitkan",
+          "meaning": "Yang membangkitkan makhluk-Nya setelah mati."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/50-ash-shahid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/103-al-baith"
+    },
+    {
+      "number": 50,
+      "name": {
+        "arabic": "الشَّهِيدُ",
+        "transliteration": "Ash-Shaheed"
+      },
+      "translations": {
+        "english": {
+          "name": "The All Observing Witness",
+          "meaning": "The Witness, The One who nothing is absent from Him."
+        },
+        "bangla": {
+          "name": "সাক্ষী",
+          "meaning": "সাক্ষী, যাঁর থেকে কিছুই গোপন নেই।"
+        },
+        "urdu": {
+          "name": "گواہ",
+          "meaning": "شاہد، جس سے کوئی چیز پوشیدہ نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Menyaksikan",
+          "meaning": "Yang Maha Menyaksikan segala sesuatu."
+        }
+      },
+      "audio_url": "https://www.islamicity.org/mediaassets/MP3/other/covers/99-names-of-Allah/050.mp3?v06092021",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/102-al-shaheed"
+    },
+    {
+      "number": 51,
+      "name": {
+        "arabic": "الْحَقُّ",
+        "transliteration": "Al-Haqq"
+      },
+      "translations": {
+        "english": {
+          "name": "The Embodiment of Truth",
+          "meaning": "The Truth, The True, The One who truly exists."
+        },
+        "bangla": {
+          "name": "সত্য",
+          "meaning": "সত্য, যিনি সত্যিকার অর্থে বিদ্যমান।"
+        },
+        "urdu": {
+          "name": "حق",
+          "meaning": "سچا، جو حقیقتاً موجود ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Benar",
+          "meaning": "Yang Maha Benar dalam segala firman dan janji-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/51-al-haqq.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/101-al-haqq"
+    },
+    {
+      "number": 52,
+      "name": {
+        "arabic": "الْوَكِيلُ",
+        "transliteration": "Al-Wakeel"
+      },
+      "translations": {
+        "english": {
+          "name": "The Universal Trustee",
+          "meaning": "The Trustee, The One who gives the satisfaction and is relied upon."
+        },
+        "bangla": {
+          "name": "কর্তব্যনির্বাহক",
+          "meaning": "ভারপ্রাপ্ত, যিনি সন্তুষ্টি দান করেন এবং যার উপর নির্ভর করা হয়।"
+        },
+        "urdu": {
+          "name": "وکیل",
+          "meaning": "کارساز، جو اطمینان دیتا ہے اور جس پر بھروسہ کیا جاتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Memelihara",
+          "meaning": "Yang Maha Memelihara dan tempat berserah diri."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/52-al-wakil.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/100-al-wakeel"
+    },
+    {
+      "number": 53,
+      "name": {
+        "arabic": "الْقَوِيُّ",
+        "transliteration": "Al-Qawwiyy"
+      },
+      "translations": {
+        "english": {
+          "name": "The Strong One",
+          "meaning": "The Most Strong, The Strong, The One with the complete Power."
+        },
+        "bangla": {
+          "name": "শক্তিমান",
+          "meaning": "সবচেয়ে শক্তিশালী, যিনি পূর্ণ ক্ষমতার অধিকারী।"
+        },
+        "urdu": {
+          "name": "قوت والا",
+          "meaning": "بہت طاقتور، جو کامل قدرت والا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Kuat",
+          "meaning": "Yang Maha Kuat dan tidak pernah lemah."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/53-al-qawi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/99-al-qawiyy"
+    },
+    {
+      "number": 54,
+      "name": {
+        "arabic": "الْمَتِينُ",
+        "transliteration": "Al-Mateen"
+      },
+      "translations": {
+        "english": {
+          "name": "The Firm One",
+          "meaning": "The One with extreme Power which is un-interrupted and He does not get tired."
+        },
+        "bangla": {
+          "name": "সুদৃঢ়",
+          "meaning": "অত্যন্ত শক্তিশালী, যার ক্ষমতা নিরবচ্ছিন্ন এবং তিনি ক্লান্ত হন না।"
+        },
+        "urdu": {
+          "name": "مضبوط",
+          "meaning": "بے انتہا طاقت والا جو مسلسل ہے اور تھکتا نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Kokoh",
+          "meaning": "Yang Maha Kuat dan kekuatan-Nya tidak pernah berkurang."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/54-al-matin.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/98-al-matin"
+    },
+    {
+      "number": 55,
+      "name": {
+        "arabic": "الْوَلِيُّ",
+        "transliteration": "Al-Waliyy"
+      },
+      "translations": {
+        "english": {
+          "name": "The Protecting Associate",
+          "meaning": "The Protecting Friend, The Supporter."
+        },
+        "bangla": {
+          "name": "অভিভাবক",
+          "meaning": "রক্ষাকারী বন্ধু, সমর্থক।"
+        },
+        "urdu": {
+          "name": "دوست",
+          "meaning": "مددگار، حامی، کارساز۔"
+        },
+        "indonesian": {
+          "name": "Maha Melindungi",
+          "meaning": "Yang Maha Melindungi hamba-hamba-Nya yang beriman."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/55-al-wali.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/97-al-waliyy"
+    },
+    {
+      "number": 56,
+      "name": {
+        "arabic": "الْحَمِيدُ",
+        "transliteration": "Al-Hameed"
+      },
+      "translations": {
+        "english": {
+          "name": "The Sole-Laudable One",
+          "meaning": "The Praiseworthy, The praised One who deserves to be praised."
+        },
+        "bangla": {
+          "name": "প্রশংসিত",
+          "meaning": "প্রশংসার যোগ্য, যিনি প্রশংসিত হবার যোগ্য।"
+        },
+        "urdu": {
+          "name": "تعریف والا",
+          "meaning": "قابل تعریف، جو تعریف کئے جانے کا مستحق ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Terpuji",
+          "meaning": "Yang Maha Terpuji dalam segala perbuatan dan sifat-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/56-al-hamid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/96-al-hameed"
+    },
+    {
+      "number": 57,
+      "name": {
+        "arabic": "الْمُحْصِي",
+        "transliteration": "Al-Muhsee"
+      },
+      "translations": {
+        "english": {
+          "name": "The All-Enumerating One",
+          "meaning": "The Counter, The Reckoner, The One who the count of things are known to him."
+        },
+        "bangla": {
+          "name": "গণনাকারী",
+          "meaning": "গণনাকারী, হিসাব গ্রহণকারী, যিনি সবকিছুর সংখ্যা জানেন।"
+        },
+        "urdu": {
+          "name": "گنتی رکھنے والا",
+          "meaning": "شمار کرنے والا، جسے ہر چیز کی تعداد معلوم ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Menghitung",
+          "meaning": "Yang Maha Mengetahui hitungan segala sesuatu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/57-al-muhsi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/95-al-muhsi"
+    },
+    {
+      "number": 58,
+      "name": {
+        "arabic": "الْمُبْدِئُ",
+        "transliteration": "Al-Mubdi"
+      },
+      "translations": {
+        "english": {
+          "name": "The Originator",
+          "meaning": "The One who started the human being. That is, He created him."
+        },
+        "bangla": {
+          "name": "সৃষ্টির সূচনাকারী",
+          "meaning": "যিনি মানুষ সৃষ্টি শুরু করেছিলেন। অর্থাৎ তিনি তাকে সৃষ্টি করেছেন।"
+        },
+        "urdu": {
+          "name": "شروع کرنے والا",
+          "meaning": "جو انسان کو شروع کرنے والا ہے۔ یعنی اسے پیدا کیا۔"
+        },
+        "indonesian": {
+          "name": "Maha Memulai",
+          "meaning": "Yang memulai penciptaan segala sesuatu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/58-al-mubdi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/94-al-mubdi"
+    },
+    {
+      "number": 59,
+      "name": {
+        "arabic": "الْمُعِيدُ",
+        "transliteration": "Al-Mueed"
+      },
+      "translations": {
+        "english": {
+          "name": "The Restorer",
+          "meaning": "The Reproducer, The One who brings back the creatures after death."
+        },
+        "bangla": {
+          "name": "পুনঃসৃষ্টিকারী",
+          "meaning": "পুনরুত্পাদনকারী, যিনি মৃত্যুর পর সৃষ্টিকে পুনরায় ফিরিয়ে আনেন।"
+        },
+        "urdu": {
+          "name": "لوٹانے والا",
+          "meaning": "دوبارہ پیدا کرنے والا، جو موت کے بعد مخلوق کو واپس لانے والا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mengembalikan",
+          "meaning": "Yang mengembalikan makhluk setelah mati."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/59-al-muid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/93-al-mueed"
+    },
+    {
+      "number": 60,
+      "name": {
+        "arabic": "الْمُحْيِي",
+        "transliteration": "Al-Muhyi"
+      },
+      "translations": {
+        "english": {
+          "name": "The Maintainer of life",
+          "meaning": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn out bodies on the resurrection day and He makes the hearts alive by the light of knowledge."
+        },
+        "bangla": {
+          "name": "জীবনদাতা",
+          "meaning": "পুনরুজ্জীবিতকারী, জীবনদাতা, যিনি প্রাণহীন শুক্র থেকে জীবিত মানুষ বের করেন। তিনি পুনরুত্থানের দিন জীর্ণ দেহে প্রাণ ফিরিয়ে দিয়ে জীবন দান করেন এবং জ্ঞানের আলোয় অন্তরকে জীবিত করেন।"
+        },
+        "urdu": {
+          "name": "زندگی دینے والا",
+          "meaning": "دوبارہ زندہ کرنے والا، زندگی دینے والا، جو بے جان نطفہ سے زندہ انسان نکالتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Menghidupkan",
+          "meaning": "Yang menghidupkan makhluk-Nya dan menghidupkan hati dengan cahaya ilmu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/60-al-muhyi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/92-al-muhyi"
+    },
+    {
+      "number": 61,
+      "name": {
+        "arabic": "اَلْمُمِيتُ",
+        "transliteration": "Al-Mumeet"
+      },
+      "translations": {
+        "english": {
+          "name": "The Inflictor of Death",
+          "meaning": "The Creator of Death, The Destroyer, The One who renders the living dead."
+        },
+        "bangla": {
+          "name": "মৃত্যুদাতা",
+          "meaning": "মৃত্যুর সৃষ্টিকর্তা, ধ্বংসকারী, যিনি জীবিতকে মৃত করেন।"
+        },
+        "urdu": {
+          "name": "موت دینے والا",
+          "meaning": "موت پیدا کرنے والا، ہلاک کرنے والا، جو زندہ کو مردہ کر دیتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mematikan",
+          "meaning": "Yang Maha Mematikan segala makhluk-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/61-al-mumit.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/91-al-mumeet"
+    },
+    {
+      "number": 62,
+      "name": {
+        "arabic": "الْحَيُّ",
+        "transliteration": "Al-Hayy"
+      },
+      "translations": {
+        "english": {
+          "name": "The Eternally Living One",
+          "meaning": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood."
+        },
+        "bangla": {
+          "name": "চিরঞ্জীব",
+          "meaning": "চিরঞ্জীব, যিনি এমন জীবনের অধিকারী যা আমাদের জীবনের মতো নয় এবং তা আত্মা, মাংস বা রক্তের সংমিশ্রণ নয়।"
+        },
+        "urdu": {
+          "name": "زندہ",
+          "meaning": "ہمیشہ زندہ، جو ایسی زندگی والا ہے جو ہماری زندگی کی طرح نہیں اور نہ ہی روح، گوشت یا خون کا مرکب ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Hidup",
+          "meaning": "Yang Maha Hidup dan tidak akan pernah mati."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/62-al-hayy.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/90-al-hayy"
+    },
+    {
+      "number": 63,
+      "name": {
+        "arabic": "الْقَيُّومُ",
+        "transliteration": "Al-Qayyoom"
+      },
+      "translations": {
+        "english": {
+          "name": "The Self-Subsisting One",
+          "meaning": "The One who remains and does not end."
+        },
+        "bangla": {
+          "name": "চিরস্থায়ী",
+          "meaning": "যিনি বিদ্যমান থাকেন এবং শেষ হন না।"
+        },
+        "urdu": {
+          "name": "قائم رکھنے والا",
+          "meaning": "جو قائم ہے اور ختم نہیں ہوتا۔"
+        },
+        "indonesian": {
+          "name": "Maha Berdiri Sendiri",
+          "meaning": "Yang Maha Berdiri Sendiri dan mengurus segala sesuatu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/63-al-qayyum.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/89-al-qayyum"
+    },
+    {
+      "number": 64,
+      "name": {
+        "arabic": "الْوَاجِدُ",
+        "transliteration": "Al-Waajid"
+      },
+      "translations": {
+        "english": {
+          "name": "The Pointing One",
+          "meaning": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness."
+        },
+        "bangla": {
+          "name": "অমূল্য",
+          "meaning": "অন্বেষণকারী, প্রাপক, যিনি কখনো দরিদ্র নন। আল-ওয়াজদ অর্থ ধনী।"
+        },
+        "urdu": {
+          "name": "پانے والا",
+          "meaning": "جاننے والا، پانے والا، جو کبھی محتاج نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Kaya",
+          "meaning": "Yang Maha Kaya dan tidak membutuhkan apapun."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/64-al-wajid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/88-al-wajid"
+    },
+    {
+      "number": 65,
+      "name": {
+        "arabic": "الْمَاجِدُ",
+        "transliteration": "Al-Maajid"
+      },
+      "translations": {
+        "english": {
+          "name": "The All-Noble One",
+          "meaning": "The Glorious, He who is Most Glorious."
+        },
+        "bangla": {
+          "name": "সম্মানিত",
+          "meaning": "গৌরবান্বিত, যিনি সবচেয়ে গৌরবান্বিত।"
+        },
+        "urdu": {
+          "name": "بزرگ",
+          "meaning": "بزرگوار، جو نہایت بزرگی والا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mulia",
+          "meaning": "Yang Maha Mulia lagi Maha Sempurna."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/65-al-majid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/87-al-majid"
+    },
+    {
+      "number": 66,
+      "name": {
+        "arabic": "الْواحِدُ",
+        "transliteration": "Al-Waahid"
+      },
+      "translations": {
+        "english": {
+          "name": "The Only One",
+          "meaning": "The Unique, The One, The One without a partner."
+        },
+        "bangla": {
+          "name": "একক",
+          "meaning": "অদ্বিতীয়, একক, যার কোনো অংশীদার নেই।"
+        },
+        "urdu": {
+          "name": "واحد",
+          "meaning": "یکتا، جو بے مثال ہے، جس کا کوئی شریک نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Esa",
+          "meaning": "Yang Maha Esa, tidak ada sekutu bagi-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/66-al-wahid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/86-al-wahid"
+    },
+    {
+      "number": 67,
+      "name": {
+        "arabic": "اَلاَحَدُ",
+        "transliteration": "Al-Ahad"
+      },
+      "translations": {
+        "english": {
+          "name": "The Sole One",
+          "meaning": "The One."
+        },
+        "bangla": {
+          "name": "অদ্বিতীয়",
+          "meaning": "একক, অদ্বিতীয়।"
+        },
+        "urdu": {
+          "name": "احد",
+          "meaning": "واحد، یکتا۔"
+        },
+        "indonesian": {
+          "name": "Maha Tunggal",
+          "meaning": "Yang Maha Esa, tempat bergantung segala sesuatu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/67-al-ahad.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/85-al-ahad"
+    },
+    {
+      "number": 68,
+      "name": {
+        "arabic": "الصَّمَدُ",
+        "transliteration": "As-Samad"
+      },
+      "translations": {
+        "english": {
+          "name": "The Supreme Provider",
+          "meaning": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs."
+        },
+        "bangla": {
+          "name": "অমুখাপেক্ষী",
+          "meaning": "চিরন্তন, স্বয়ংসম্পূর্ণ, প্রভু যার উপর সব বিষয়ে নির্ভর করা হয় এবং প্রয়োজনে ফিরে যাওয়া হয়।"
+        },
+        "urdu": {
+          "name": "بے نیاز",
+          "meaning": "بے نیاز، جس پر ہر معاملے میں بھروسہ کیا جاتا ہے اور ضرورت میں اسی کی طرف رجوع کیا جاتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Dibutuhkan",
+          "meaning": "Yang Maha Dibutuhkan oleh semua makhluk."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/68-as-samad.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/84-al-samad"
+    },
+    {
+      "number": 69,
+      "name": {
+        "arabic": "الْقَادِرُ",
+        "transliteration": "Al-Qaadir"
+      },
+      "translations": {
+        "english": {
+          "name": "The Omnipotent One",
+          "meaning": "The Able, The Capable, The One attributed with Power."
+        },
+        "bangla": {
+          "name": "ক্ষমতাবান",
+          "meaning": "সক্ষম, শক্তিশালী, যিনি ক্ষমতার অধিকারী।"
+        },
+        "urdu": {
+          "name": "قادر",
+          "meaning": "طاقتور، جو قدرت والا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Kuasa",
+          "meaning": "Yang Maha Kuasa atas segala sesuatu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/69-al-qadir.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/83-al-qadir"
+    },
+    {
+      "number": 70,
+      "name": {
+        "arabic": "الْمُقْتَدِرُ",
+        "transliteration": "Al-Muqtadir"
+      },
+      "translations": {
+        "english": {
+          "name": "The All Authoritative One",
+          "meaning": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him."
+        },
+        "bangla": {
+          "name": "শক্তিশালী",
+          "meaning": "শক্তিশালী, পরাক্রমশালী, যিনি এমন নিখুঁত ক্ষমতার অধিকারী যে তাঁর থেকে কিছুই গোপন থাকে না।"
+        },
+        "urdu": {
+          "name": "اقتدار والا",
+          "meaning": "قوت والا، غالب، جو کامل قدرت والا ہے، اس سے کوئی چیز باہر نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Berkuasa",
+          "meaning": "Yang Maha Berkuasa dan tidak ada yang dapat menolak kehendak-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/70-al-muqtadir.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/82-al-muqtadir"
+    },
+    {
+      "number": 71,
+      "name": {
+        "arabic": "الْمُقَدِّمُ",
+        "transliteration": "Al-Muqaddim"
+      },
+      "translations": {
+        "english": {
+          "name": "The Expediting One",
+          "meaning": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+        },
+        "bangla": {
+          "name": "অগ্রগামী",
+          "meaning": "অগ্রসারক, উন্নতিকারী, যিনি জিনিসগুলিকে তাদের সঠিক স্থানে রাখেন। তিনি যা ইচ্ছা অগ্রসর করেন এবং যা ইচ্ছা পশ্চাদপটে রাখেন।"
+        },
+        "urdu": {
+          "name": "آگے کرنے والا",
+          "meaning": "مقدم کرنے والا، جو چیزوں کو ان کے صحیح مقامات پر رکھتا ہے۔ جسے چاہے آگے کر دے اور جسے چاہے پیچھے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mendahulukan",
+          "meaning": "Yang mendahulukan apa yang Dia kehendaki dan mengakhirkan apa yang Dia kehendaki."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/71-al-muqaddim.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/81-al-muqaddim"
+    },
+    {
+      "number": 72,
+      "name": {
+        "arabic": "الْمُؤَخِّرُ",
+        "transliteration": "Al-Mu’akhkhir"
+      },
+      "translations": {
+        "english": {
+          "name": "The Procrastinator",
+          "meaning": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+        },
+        "bangla": {
+          "name": "পশ্চাদগামী",
+          "meaning": "বিলম্বকারী, পিছিয়ে রাখার অধিকারী, যিনি জিনিসগুলিকে তাদের সঠিক স্থানে রাখেন। তিনি যা ইচ্ছা অগ্রসর করেন এবং যা ইচ্ছা পশ্চাদপটে রাখেন।"
+        },
+        "urdu": {
+          "name": "پیچھے کرنے والا",
+          "meaning": "موخر کرنے والا، جو چیزوں کو ان کے صحیح مقامات پر رکھتا ہے۔ جسے چاہے آگے کر دے اور جسے چاہے پیچھے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mengakhirkan",
+          "meaning": "Yang mengakhirkan apa yang Dia kehendaki."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/72-al-muakhkhir.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/80-al-muakhkhir"
+    },
+    {
+      "number": 73,
+      "name": {
+        "arabic": "الأوَّلُ",
+        "transliteration": "Al-Awwal"
+      },
+      "translations": {
+        "english": {
+          "name": "The Very First",
+          "meaning": "The First, The One whose Existence is without a beginning."
+        },
+        "bangla": {
+          "name": "প্রথম",
+          "meaning": "প্রথম, যাঁর অস্তিত্বের কোনো শুরু নেই।"
+        },
+        "urdu": {
+          "name": "اول",
+          "meaning": "پہلا، جس کے وجود کا کوئی آغاز نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Awal",
+          "meaning": "Yang Maha Awal, tidak ada sesuatu pun sebelum-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/73-al-awwal.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/78-al-awwal"
+    },
+    {
+      "number": 74,
+      "name": {
+        "arabic": "الآخِرُ",
+        "transliteration": "Al-Akhir"
+      },
+      "translations": {
+        "english": {
+          "name": "The Infinite Last One",
+          "meaning": "The Last, The One whose Existence is without an end."
+        },
+        "bangla": {
+          "name": "শেষ",
+          "meaning": "শেষ, যাঁর অস্তিত্বের কোনো শেষ নেই।"
+        },
+        "urdu": {
+          "name": "آخر",
+          "meaning": "آخری، جس کے وجود کا کوئی خاتمہ نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Akhir",
+          "meaning": "Yang Maha Akhir, tidak ada sesuatu pun setelah-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/74-al-akhir.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/77-al-akhir"
+    },
+    {
+      "number": 75,
+      "name": {
+        "arabic": "الظَّاهِرُ",
+        "transliteration": "Az-Zaahir"
+      },
+      "translations": {
+        "english": {
+          "name": "The Perceptible",
+          "meaning": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+        },
+        "bangla": {
+          "name": "প্রকাশ্য",
+          "meaning": "প্রকাশিত, যাঁর উপরে কিছু নেই এবং নিচেও কিছু নেই, তাই তিনি স্থান ছাড়া বিদ্যমান। তিনি মহীয়ান, তাঁর অস্তিত্ব প্রমাণ দ্বারা স্পষ্ট এবং তিনি দেহের গুণাবলীর বিভ্রম থেকে পবিত্র।"
+        },
+        "urdu": {
+          "name": "ظاہر",
+          "meaning": "ظاہر، جس کے اوپر کچھ نہیں اور نیچے بھی کچھ نہیں، اس لیے وہ بے جگہ موجود ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Nyata",
+          "meaning": "Yang Maha Nyata, keberadaan-Nya terbukti dengan tanda-tanda."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/75-az-zahir.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/76-al-zahir"
+    },
+    {
+      "number": 76,
+      "name": {
+        "arabic": "الْبَاطِنُ",
+        "transliteration": "Al-Baatin"
+      },
+      "translations": {
+        "english": {
+          "name": "The Imperceptible",
+          "meaning": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+        },
+        "bangla": {
+          "name": "গোপন",
+          "meaning": "লুক্কায়িত, যাঁর উপরে কিছু নেই এবং নিচেও কিছু নেই, তাই তিনি স্থান ছাড়া বিদ্যমান। তিনি মহীয়ান, তাঁর অস্তিত্ব প্রমাণ দ্বারা স্পষ্ট এবং তিনি দেহের গুণাবলীর বিভ্রম থেকে পবিত্র।"
+        },
+        "urdu": {
+          "name": "باطن",
+          "meaning": "پوشیدہ، جس کے اوپر کچھ نہیں اور نیچے بھی کچھ نہیں، اس لیے وہ بے جگہ موجود ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Gaib",
+          "meaning": "Yang Maha Gaib, tidak dapat dijangkau oleh penglihatan makhluk."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/76-al-batin.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/75-al-batin"
+    },
+    {
+      "number": 77,
+      "name": {
+        "arabic": "الْوَالِي",
+        "transliteration": "Al-Waali"
+      },
+      "translations": {
+        "english": {
+          "name": "The Holder of Supreme Authority",
+          "meaning": "The Governor, The One who owns things and manages them."
+        },
+        "bangla": {
+          "name": "শাসক",
+          "meaning": "শাসনকর্তা, যিনি জিনিসের মালিক এবং তাদের পরিচালনা করেন।"
+        },
+        "urdu": {
+          "name": "والی",
+          "meaning": "حکمران، جو چیزوں کا مالک ہے اور ان کا انتظام کرتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Menguasai",
+          "meaning": "Yang Maha Menguasai dan mengatur segala urusan."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/77-al-wali.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/74-al-wali"
+    },
+    {
+      "number": 78,
+      "name": {
+        "arabic": "الْمُتَعَالِي",
+        "transliteration": "Al-Muta’ali"
+      },
+      "translations": {
+        "english": {
+          "name": "The Extremely Exalted One",
+          "meaning": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation."
+        },
+        "bangla": {
+          "name": "সর্বোচ্চ",
+          "meaning": "সর্বোচ্চ, উচ্চে অবস্থানকারী, যিনি সৃষ্টির গুণাবলী থেকে পবিত্র।"
+        },
+        "urdu": {
+          "name": "بہت بلند",
+          "meaning": "نہایت بلند، جو مخلوق کی صفات سے پاک ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Tinggi",
+          "meaning": "Yang Maha Tinggi lagi Maha Agung."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/78-al-mutaali.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/73-al-mutaali"
+    },
+    {
+      "number": 79,
+      "name": {
+        "arabic": "الْبَرُّ",
+        "transliteration": "Al-Barr"
+      },
+      "translations": {
+        "english": {
+          "name": "The Fountain-Head of Truth",
+          "meaning": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy."
+        },
+        "bangla": {
+          "name": "সদাচারী",
+          "meaning": "সকল কল্যাণের উৎস, সৎ, যিনি তাঁর সৃষ্টির প্রতি দয়ালু, যিনি তাদের রিজিক দিয়ে ঢেকে রেখেছেন এবং তাদের মধ্যে যাকে ইচ্ছা তাঁর সমর্থন, সুরক্ষা এবং বিশেষ দয়া দান করেন।"
+        },
+        "urdu": {
+          "name": "نیک",
+          "meaning": "نیکی کا سرچشمہ، جو اپنی مخلوق پر مہربان ہے، انہیں رزق سے ڈھانپے ہوئے ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Dermawan",
+          "meaning": "Yang Maha Dermawan dan Maha Baik kepada makhluk-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/79-al-barr.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/72-al-barr"
+    },
+    {
+      "number": 80,
+      "name": {
+        "arabic": "التَّوَابُ",
+        "transliteration": "At-Tawwaab"
+      },
+      "translations": {
+        "english": {
+          "name": "The Ever-Acceptor of Repentance",
+          "meaning": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance."
+        },
+        "bangla": {
+          "name": "তাওবা গ্রহণকারী",
+          "meaning": "অনুতাপ গ্রহণকারী, যিনি তাঁর সৃষ্টির মধ্যে যাকে ইচ্ছা তাওবার তাওফিক দান করেন এবং তাঁর তাওবা কবুল করেন।"
+        },
+        "urdu": {
+          "name": "توبہ قبول کرنے والا",
+          "meaning": "رجوع کرنے والا، جو اپنی مخلوق میں سے جسے چاہے توبہ کی توفیق دیتا ہے اور اس کی توبہ قبول فرماتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Menerima Taubat",
+          "meaning": "Yang Maha Menerima taubat hamba-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/80-at-tawwab.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/71-al-tawwab"
+    },
+    {
+      "number": 81,
+      "name": {
+        "arabic": "الْمُنْتَقِمُ",
+        "transliteration": "Al-Muntaqim"
+      },
+      "translations": {
+        "english": {
+          "name": "The Retaliator",
+          "meaning": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them."
+        },
+        "bangla": {
+          "name": "প্রতিশোধগ্রহীতা",
+          "meaning": "প্রতিশোধ গ্রহণকারী, যিনি তাঁর শত্রুদের উপর বিজয়ী হন এবং তাদের পাপের শাস্তি দেন। এর অর্থ হতে পারে যিনি তাদের ধ্বংস করেন।"
+        },
+        "urdu": {
+          "name": "بدلہ لینے والا",
+          "meaning": "انتقام لینے والا، جو اپنے دشمنوں پر غالب آتا ہے اور ان کے گناہوں پر سزا دیتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Pembalas",
+          "meaning": "Yang Maha Membalas kejahatan dengan keadilan-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/81-al-muntaqim.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/70-al-muntaqim"
+    },
+    {
+      "number": 82,
+      "name": {
+        "arabic": "العَفُوُّ",
+        "transliteration": "Al-Afuww"
+      },
+      "translations": {
+        "english": {
+          "name": "The Supreme Pardoner",
+          "meaning": "The Forgiver, The One with wide forgiveness."
+        },
+        "bangla": {
+          "name": "মার্জনাকারী",
+          "meaning": "ক্ষমাকারী, যিনি ব্যাপক ক্ষমার অধিকারী।"
+        },
+        "urdu": {
+          "name": "معاف کرنے والا",
+          "meaning": "بخشش کرنے والا، جو وسیع مغفرت والا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Pemaaf",
+          "meaning": "Yang Maha Pemaaf lagi Maha Pengampun."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/82-al-afuw.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/69-al-afuww"
+    },
+    {
+      "number": 83,
+      "name": {
+        "arabic": "الرَّؤُوفُ",
+        "transliteration": "Ar-Ra’oof"
+      },
+      "translations": {
+        "english": {
+          "name": "The Benign One",
+          "meaning": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures."
+        },
+        "bangla": {
+          "name": "দয়ালু",
+          "meaning": "অতি দয়ালু, যিনি অপরিমিত দয়ার অধিকারী। আল্লাহর দয়া হল তাঁর সৃষ্টির মধ্যে যাকে ইচ্ছা দান করার ইচ্ছা।"
+        },
+        "urdu": {
+          "name": "شفقت والا",
+          "meaning": "نہایت مہربان، جس کی رحمت بے حد ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Lembut",
+          "meaning": "Yang Maha Lembut dan Maha Penyayang."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/83-ar-rauf.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/67-al-raoof"
+    },
+    {
+      "number": 84,
+      "name": {
+        "arabic": "مَالِكُ الْمُلْكِ",
+        "transliteration": "Maalik-ul-Mulk"
+      },
+      "translations": {
+        "english": {
+          "name": "The Eternal Possessor of Sovereignty",
+          "meaning": "The One who controls the Dominion and gives dominion to whoever He willed."
+        },
+        "bangla": {
+          "name": "রাজ্যের মালিক",
+          "meaning": "যিনি রাজত্ব নিয়ন্ত্রণ করেন এবং যাকে ইচ্ছা রাজত্ব দান করেন।"
+        },
+        "urdu": {
+          "name": "بادشاہی کا مالک",
+          "meaning": "جو سلطنت کا مالک ہے اور جسے چاہے سلطنت عطا فرمائے۔"
+        },
+        "indonesian": {
+          "name": "Maha Memiliki Kerajaan",
+          "meaning": "Yang Maha Memiliki seluruh kerajaan dan kekuasaan."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/84-malik-ul-mulk.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/66-al-malikul-mulk"
+    },
+    {
+      "number": 85,
+      "name": {
+        "arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+        "transliteration": "Zul-Jalaali-wal-Ikram"
+      },
+      "translations": {
+        "english": {
+          "name": "The Possessor of Majesty and Honour",
+          "meaning": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied."
+        },
+        "bangla": {
+          "name": "মর্যাদা ও সম্মানের অধিকারী",
+          "meaning": "মহিমা ও দানের প্রভু, যিনি সম্মানিত হওয়ার যোগ্য এবং অস্বীকার করার নয়।"
+        },
+        "urdu": {
+          "name": "جلال و اکرام والا",
+          "meaning": "عظمت و بخشش والا، جو بلند ہونے کا مستحق ہے اور نہ مانے جانے کا نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Pemilik Kebesaran dan Kemuliaan",
+          "meaning": "Yang Maha Memiliki kebesaran dan kemuliaan."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/85-dhul-jalaal-wal-ikraam.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/65-thul-jalali-wal-ikram"
+    },
+    {
+      "number": 86,
+      "name": {
+        "arabic": "الْمُقْسِطُ",
+        "transliteration": "Al-Muqsit"
+      },
+      "translations": {
+        "english": {
+          "name": "The Just One",
+          "meaning": "The Equitable, The One who is Just in His judgment."
+        },
+        "bangla": {
+          "name": "ন্যায়পরায়ণ",
+          "meaning": "ন্যায়বিচারক, যিনি তাঁর বিচারে ন্যায়পরায়ণ।"
+        },
+        "urdu": {
+          "name": "انصاف کرنے والا",
+          "meaning": "عدل کرنے والا، جو اپنے فیصلے میں منصف ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Adil",
+          "meaning": "Yang Maha Adil dalam segala keputusan-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/86-al-muqsit.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/64-al-muqsit"
+    },
+    {
+      "number": 87,
+      "name": {
+        "arabic": "الْجَامِعُ",
+        "transliteration": "Al-Jaami’"
+      },
+      "translations": {
+        "english": {
+          "name": "The Assembler of Scattered Creations",
+          "meaning": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment."
+        },
+        "bangla": {
+          "name": "সংগ্রহকারী",
+          "meaning": "সমবেতকারী, যিনি সৃষ্টিদের এমন এক দিনে সমবেত করবেন যাতে কোনো সন্দেহ নেই, তা হল কিয়ামতের দিন।"
+        },
+        "urdu": {
+          "name": "جمع کرنے والا",
+          "meaning": "اکٹھا کرنے والا، جو مخلوق کو ایک دن جس میں کوئی شک نہیں، قیامت کے دن جمع کرے گا۔"
+        },
+        "indonesian": {
+          "name": "Maha Mengumpulkan",
+          "meaning": "Yang mengumpulkan seluruh makhluk pada hari kiamat."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/87-al-jame.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/63-al-jami"
+    },
+    {
+      "number": 88,
+      "name": {
+        "arabic": "الْغَنِيُّ",
+        "transliteration": "Al-Ghaniyy"
+      },
+      "translations": {
+        "english": {
+          "name": "The Self-Sufficient One",
+          "meaning": "The One who does not need the creation."
+        },
+        "bangla": {
+          "name": "অমুখাপেক্ষী",
+          "meaning": "যিনি সৃষ্টির মুখাপেক্ষী নন।"
+        },
+        "urdu": {
+          "name": "بے نیاز",
+          "meaning": "جو مخلوق کا محتاج نہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Kaya",
+          "meaning": "Yang Maha Kaya dan tidak membutuhkan apapun dari makhluk-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/88-al-ghani.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/62-al-ghaniyy"
+    },
+    {
+      "number": 89,
+      "name": {
+        "arabic": "الْمُغْنِي",
+        "transliteration": "Al-Mughni"
+      },
+      "translations": {
+        "english": {
+          "name": "The Bestower of Sufficiency",
+          "meaning": "The Enricher, The One who satisfies the necessities of the creatures."
+        },
+        "bangla": {
+          "name": "সমৃদ্ধিদাতা",
+          "meaning": "সমৃদ্ধিকারী, যিনি সৃষ্টির প্রয়োজন পূরণ করেন।"
+        },
+        "urdu": {
+          "name": "غنی کرنے والا",
+          "meaning": "بے نیاز کرنے والا، جو مخلوق کی ضروریات پوری کرتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Memberi Kekayaan",
+          "meaning": "Yang memberikan kecukupan dan kekayaan kepada hamba-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/89-al-mughni.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/61-al-mughni"
+    },
+    {
+      "number": 90,
+      "name": {
+        "arabic": "اَلْمَانِعُ",
+        "transliteration": "Al-Maani’"
+      },
+      "translations": {
+        "english": {
+          "name": "The Preventer",
+          "meaning": "The Withholder."
+        },
+        "bangla": {
+          "name": "বাধাদানকারী",
+          "meaning": "আটকে রাখার অধিকারী।"
+        },
+        "urdu": {
+          "name": "روکنے والا",
+          "meaning": "مانع، جو روکتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mencegah",
+          "meaning": "Yang Maha Mencegah apa yang Dia kehendaki."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/90-al-mani.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/59-al-mani"
+    },
+    {
+      "number": 91,
+      "name": {
+        "arabic": "الضَّارَّ",
+        "transliteration": "Ad-Daarr"
+      },
+      "translations": {
+        "english": {
+          "name": "The Distressor",
+          "meaning": "The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+        },
+        "bangla": {
+          "name": "ক্ষতিদাতা",
+          "meaning": "যিনি যাকে ইচ্ছা ক্ষতি পৌঁছান এবং যাকে ইচ্ছা উপকার দান করেন।"
+        },
+        "urdu": {
+          "name": "نقصان پہنچانے والا",
+          "meaning": "جو جسے چاہے نقصان پہنچائے اور جسے چاہے فائدہ دے۔"
+        },
+        "indonesian": {
+          "name": "Maha Memberi Bahaya",
+          "meaning": "Yang menimpakan bahaya kepada siapa yang Dia kehendaki."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/91-ad-darr.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/58-al-darr"
+    },
+    {
+      "number": 92,
+      "name": {
+        "arabic": "النَّافِعُ",
+        "transliteration": "An-Naafi’"
+      },
+      "translations": {
+        "english": {
+          "name": "The Bestower of Benefits",
+          "meaning": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+        },
+        "bangla": {
+          "name": "উপকারদাতা",
+          "meaning": "কল্যাণকারী, যিনি যাকে ইচ্ছা ক্ষতি পৌঁছান এবং যাকে ইচ্ছা উপকার দান করেন।"
+        },
+        "urdu": {
+          "name": "نفع دینے والا",
+          "meaning": "فائدہ پہنچانے والا، جو جسے چاہے نقصان پہنچائے اور جسے چاہے فائدہ دے۔"
+        },
+        "indonesian": {
+          "name": "Maha Memberi Manfaat",
+          "meaning": "Yang memberi manfaat kepada siapa yang Dia kehendaki."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/92-an-nafi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/57-al-nafi"
+    },
+    {
+      "number": 93,
+      "name": {
+        "arabic": "النُّورُ",
+        "transliteration": "An-Noor"
+      },
+      "translations": {
+        "english": {
+          "name": "The Prime Light",
+          "meaning": "The Light, The One who guides."
+        },
+        "bangla": {
+          "name": "আলো",
+          "meaning": "আলো, যিনি পথ প্রদর্শন করেন।"
+        },
+        "urdu": {
+          "name": "نور",
+          "meaning": "روشنی، جو راہ دکھانے والا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Cahaya",
+          "meaning": "Yang Maha Cahaya langit dan bumi."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/93-an-nur.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/56-al-noor"
+    },
+    {
+      "number": 94,
+      "name": {
+        "arabic": "الْهَادِي",
+        "transliteration": "Al-Haadi"
+      },
+      "translations": {
+        "english": {
+          "name": "The Provider of Guidance",
+          "meaning": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them."
+        },
+        "bangla": {
+          "name": "পথপ্রদর্শক",
+          "meaning": "পথ প্রদর্শক, যাঁর নির্দেশনায় তাঁর মুমিনরা সঠিক পথ পেয়েছে এবং যাঁর নির্দেশনায় জীবিত প্রাণী তাদের জন্য কল্যাণকর বিষয়ে পরিচালিত এবং ক্ষতিকর বিষয় থেকে সুরক্ষিত।"
+        },
+        "urdu": {
+          "name": "رہنمائی کرنے والا",
+          "meaning": "ہدایت دینے والا، جس کی ہدایت سے اس کے مومن ہدایت پاتے ہیں اور جس کی ہدایت سے جاندار اپنے لیے مفید چیزوں کی طرف رہنمائی پاتے ہیں۔"
+        },
+        "indonesian": {
+          "name": "Maha Pemberi Petunjuk",
+          "meaning": "Yang memberi petunjuk kepada hamba-Nya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/94-al-hadi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/55-al-hadi"
+    },
+    {
+      "number": 95,
+      "name": {
+        "arabic": "الْبَدِيعُ",
+        "transliteration": "Al-Badi’"
+      },
+      "translations": {
+        "english": {
+          "name": "The Unique One",
+          "meaning": "The Incomparable, The One who created the creation and formed it without any preceding example."
+        },
+        "bangla": {
+          "name": "অদ্বিতীয় সৃষ্টিকর্তা",
+          "meaning": "অতুলনীয়, যিনি সৃষ্টি সৃষ্টি করেছেন এবং কোনো পূর্ববর্তী নমুনা ছাড়াই গঠন করেছেন।"
+        },
+        "urdu": {
+          "name": "بدیع",
+          "meaning": "بے مثال، جس نے مخلوق کو پیدا کیا اور بغیر کسی سابقہ مثال کے تشکیل دیا۔"
+        },
+        "indonesian": {
+          "name": "Maha Pencipta",
+          "meaning": "Yang menciptakan segala sesuatu tanpa contoh sebelumnya."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/95-al-badi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/54-al-badee"
+    },
+    {
+      "number": 96,
+      "name": {
+        "arabic": "اَلْبَاقِي",
+        "transliteration": "Al-Baaqi"
+      },
+      "translations": {
+        "english": {
+          "name": "The Ever Surviving One",
+          "meaning": "The Everlasting, The One that the state of non-existence is impossible for Him."
+        },
+        "bangla": {
+          "name": "চিরস্থায়ী",
+          "meaning": "চিরন্তন, যাঁর জন্য অস্তিত্বহীন হওয়ার অবস্থা অসম্ভব।"
+        },
+        "urdu": {
+          "name": "باقی رہنے والا",
+          "meaning": "ہمیشہ رہنے والا، جس کے لیے عدم کا تصور ناممکن ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Kekal",
+          "meaning": "Yang Maha Kekal, tidak akan pernah binasa."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/96-al-baqi.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/53-al-baqi"
+    },
+    {
+      "number": 97,
+      "name": {
+        "arabic": "الْوَارِثُ",
+        "transliteration": "Al-Waaris"
+      },
+      "translations": {
+        "english": {
+          "name": "The Eternal Inheritor",
+          "meaning": "The Heir, The One whose Existence remains."
+        },
+        "bangla": {
+          "name": "উত্তরাধিকারী",
+          "meaning": "উত্তরাধিকারী, যাঁর অস্তিত্ব অবশিষ্ট থাকে।"
+        },
+        "urdu": {
+          "name": "وارث",
+          "meaning": "مالک، جس کا وجود باقی رہتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Mewarisi",
+          "meaning": "Yang Maha Mewarisi segala sesuatu."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/97-al-warith.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/52-al-warith"
+    },
+    {
+      "number": 98,
+      "name": {
+        "arabic": "الرَّشِيدُ",
+        "transliteration": "Ar-Rasheed"
+      },
+      "translations": {
+        "english": {
+          "name": "The Guide to Path of Rectitude",
+          "meaning": "The Guide to the Right Path, The One who guides."
+        },
+        "bangla": {
+          "name": "সঠিক পথ প্রদর্শক",
+          "meaning": "সঠিক পথের দিশারী, যিনি পথ প্রদর্শন করেন।"
+        },
+        "urdu": {
+          "name": "رشید",
+          "meaning": "رہنمائی کرنے والا، جو صحیح راستہ دکھاتا ہے۔"
+        },
+        "indonesian": {
+          "name": "Maha Memberi Petunjuk",
+          "meaning": "Yang memberi petunjuk kepada kebenaran."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/98-ar-rashid.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/50-al-rasheed"
+    },
+    {
+      "number": 99,
+      "name": {
+        "arabic": "الصَّبُورُ",
+        "transliteration": "As-Saboor"
+      },
+      "translations": {
+        "english": {
+          "name": "The Extensively Enduring One",
+          "meaning": "The Patient, The One who does not quickly punish the sinners."
+        },
+        "bangla": {
+          "name": "ধৈর্যশীল",
+          "meaning": "ধৈর্যশীল, যিনি পাপীদের দ্রুত শাস্তি দেন না।"
+        },
+        "urdu": {
+          "name": "صبر کرنے والا",
+          "meaning": "بردبار، جو گناہ گاروں کو جلدی سزا نہیں دیتا۔"
+        },
+        "indonesian": {
+          "name": "Maha Sabar",
+          "meaning": "Yang Maha Sabar dan tidak tergesa-gesa dalam memberi azab."
+        }
+      },
+      "audio_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/99-as-sabur.ogg",
+      "reference_url": "http://www.qul.org.au/the-holy-quran/asma-ul-husna/49-al-saboor"
+    }
+  ]
+}
