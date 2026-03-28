@@ -135,12 +135,13 @@ function showNameDetail(name) {
                 <div class="modal-transliteration">${name.name.transliteration}</div>
                 <div class="modal-translated">${name.name.translated}</div>
                 <div class="modal-meaning">${name.meaning || ''}</div>
-                ${name.details ? `
+                <div class="modal-rich-content">
                     <div class="modal-details">
                         <h4>Details</h4>
-                        <p>${name.details}</p>
+                        <p>${escapeHtml(name.details || name.meaning || '')}</p>
                     </div>
-                ` : ''}
+                    <div class="modal-loading-state">Loading Quran details...</div>
+                </div>
                 ${name.audio_url ? `<button class="audio-btn modal-audio" data-audio="${name.audio_url}">Listen to recitation</button>` : ''}
             </div>
         </div>
@@ -160,6 +161,8 @@ function showNameDetail(name) {
     if (modalAudio) {
         modalAudio.addEventListener('click', () => playAudio(modalAudio.dataset.audio));
     }
+
+    enrichModalDetails(name.number, modal);
 }
 
 function playAudio(audioUrl) {
@@ -182,8 +185,75 @@ function setEndpointExamples() {
     requestExamples.textContent = [
         `GET ${endpoint}?id=1`,
         `GET ${endpoint}?search=mercy`,
-        `GET ${endpoint}?random=true&lang=urdu`
+        `GET ${endpoint}?random=true&lang=urdu`,
+        `GET ${origin}/api/details?id=3&lang=english`
     ].join('\n');
+}
+
+async function enrichModalDetails(number, modal) {
+    const contentRoot = modal.querySelector('.modal-rich-content');
+    if (!contentRoot) return;
+
+    try {
+        const response = await fetch(`${API_BASE_URL}/details?id=${number}&lang=${currentLanguage}`);
+        if (!response.ok) throw new Error('Details request failed');
+
+        const payload = await response.json();
+        if (!document.body.contains(modal)) return;
+
+        contentRoot.innerHTML = renderRichContent(payload);
+    } catch (error) {
+        console.error('Error loading details:', error);
+        if (!document.body.contains(modal)) return;
+        contentRoot.innerHTML = `
+            <div class="modal-details">
+                <h4>Details</h4>
+                <p>${escapeHtml('Live details could not be loaded right now. Showing local content only.')}</p>
+            </div>
+        `;
+    }
+}
+
+function renderRichContent(payload) {
+    const sections = [];
+
+    sections.push(`
+        <div class="modal-details">
+            <h4>Details</h4>
+            <p>${escapeHtml(payload.details || payload.meaning || '')}</p>
+        </div>
+    `);
+
+    if (payload.quran_reference) {
+        sections.push(`
+            <div class="modal-details modal-quran-block">
+                <h4>Quran Reference</h4>
+                <div class="modal-reference-label">${escapeHtml(payload.quran_reference.surah.english_name)} (${escapeHtml(payload.quran_reference.reference)})</div>
+                <p class="modal-quran-arabic">${escapeHtml(payload.quran_reference.arabic)}</p>
+                <p>${escapeHtml(payload.quran_reference.translation)}</p>
+            </div>
+        `);
+    }
+
+    if (payload.asma_reference?.english_meaning) {
+        sections.push(`
+            <div class="modal-details modal-source-block">
+                <h4>Live Name Reference</h4>
+                <p>${escapeHtml(payload.asma_reference.english_meaning)}</p>
+            </div>
+        `);
+    }
+
+    return sections.join('');
+}
+
+function escapeHtml(value) {
+    return String(value)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
 }
 
 fetchNames();

@@ -9,7 +9,8 @@ A lightweight API and modern web interface for exploring the 99 Names of Allah.
 - Multilingual support for `english`, `bangla`, `urdu`, and `indonesian`
 - Search by Arabic name, transliteration, or English meaning
 - Random name lookup
-- Audio recitation and reference links in each record
+- Audio recitation with expandable details in each record
+- Live details endpoint with Quran auto-fetch support
 - Responsive frontend included in `public/`
 
 ## API Endpoint
@@ -20,6 +21,12 @@ Base route:
 /api/asmaul-husna
 ```
 
+Live details route:
+
+```text
+/api/details?id=3&lang=english
+```
+
 ## Query Parameters
 
 | Parameter | Type | Description |
@@ -28,6 +35,13 @@ Base route:
 | `id` | number | Returns a single name by its number |
 | `search` | string | Searches Arabic text, transliteration, English translated name, and English meaning |
 | `random` | boolean | When `true`, returns one random name |
+
+`/api/details` also accepts:
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| `id` | number | Required name number for live detail lookup |
+| `lang` | string | Translation language for the detail payload |
 
 ## Arabic Support
 
@@ -93,8 +107,8 @@ All names:
         "translated": "The Most Gracious"
       },
       "meaning": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
-      "audio_url": "https://...",
-      "reference_url": "http://..."
+      "details": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
+      "audio_url": "https://..."
     }
   ]
 }
@@ -111,8 +125,8 @@ Single name:
     "translated": "The Most Gracious"
   },
   "meaning": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
-  "audio_url": "https://...",
-  "reference_url": "http://..."
+  "details": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
+  "audio_url": "https://..."
 }
 ```
 
@@ -130,8 +144,8 @@ Search results:
         "translated": "The Most Gracious"
       },
       "meaning": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
-      "audio_url": "https://...",
-      "reference_url": "http://..."
+      "details": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
+      "audio_url": "https://..."
     }
   ]
 }
@@ -148,14 +162,41 @@ Unsupported language:
 }
 ```
 
+## Live Details Response
+
+```json
+{
+  "number": 3,
+  "name": {
+    "arabic": "الْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "translated": "The Eternal Lord"
+  },
+  "meaning": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection.",
+  "details": "So exalted be Allah, the True King; no god is there but He...",
+  "audio_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/03-al-malik.ogg",
+  "quran_reference": {
+    "reference": "23:116",
+    "arabic": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ...",
+    "translation": "[KNOW,] then, [that] God is sublimely exalted..."
+  },
+  "asma_reference": {
+    "source": "api.aladhan.com",
+    "english_meaning": "The King / Eternal Lord"
+  }
+}
+```
+
 ## Project Structure
 
 ```text
 api/asmaul-husna.js   Serverless API handler
+api/details.js        Live details endpoint
 data/asmaul-husna.json Source data for all names
 public/index.html     Frontend landing page
 public/style.css      Frontend styles
 public/script.js      Frontend interactions
+utils/fetchDetails.js External API fetch helpers
 ```
 
 ## Branding
